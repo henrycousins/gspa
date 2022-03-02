@@ -37,7 +37,7 @@ python gspa.py --rnk_file rnk_files/GSE781.rnk --gmt_file gene_sets/kegg.gmt --o
 
 ## Advanced usage
 
-Many additional parameters can be defined by the user.
+Additional parameters can be defined by the user.
 
 ```
 usage: gspa.py [-h] --rnk_file RNK_FILE --gmt_file GMT_FILE
