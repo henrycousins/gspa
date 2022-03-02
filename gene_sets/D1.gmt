@@ -1,0 +1,1202 @@
+citric acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1	ABHD5	ALDH1A1	HNF4A	KDM4A	NFE2L2	PLIN1	PLIN5
+hydrogen sulfide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=2	CA1	CA2
+bupropion	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=3	CHRNA1	CHRNA3	CHRNA4	CHRNB1	CHRNB2	CHRNB4	CHRND	CHRNG	CYP2C19	SLC6A2	SLC6A3
+6-aminohexanoic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=4	PLAT	PLG
+dimethyl sulfoxide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=5	NFE2L2
+dopamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=6	ADRA2A	APEX1	CA1	CA12	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA7	CA9	DRD1	DRD2	DRD3	DRD4	EHMT2	FEN1	HIF1A	HSD17B10	KDM4E	MPHOSPH8	MTNR1A	MTNR1B	NFE2L2	RECQL	SLC6A2	SLC6A3	TDP1	TP53
+lindane	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=7	CHRM1	CHRM5	CYP19A1	ESR1	GABRA1	GABRA6	GABRB1	GABRB3	GABRG2	GABRR1	MRGPRX1	NR1I2	PPARD
+glycine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=8	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	SLC6A9
+nicotinic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=9	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	HCAR2
+pyrazinamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=10	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4
+pyridoxine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=11	PDXK
+thiamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=12	HSP90AA1	NFE2L2
+4-aminopyridine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=13	CYP2D6	KCNA1	KCNA10	KCNA2	KCNA3	KCNA5	KCNA6	KCNA7	KCNB1	KCNB2	KCNC1	KCNC2	KCNC3	KCNC4	KCND1	KCND2	KCND3	KCNF1	KCNG1	KCNG2	KCNG3	KCNG4	KCNH1	KCNH2	KCNH5	KCNH8	KCNQ1	KCNQ2	KCNQ3	KCNQ4	KCNQ5	KCNS1	KCNS2	KCNS3	KCNV1	KCNV2
+phenytoin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=14	AQP4	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	NFE2L2	NR1I2	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+Tacrine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=15	ACHE	AHR	ALOX15	BCHE	CYP1A2	CYP2D6	CYP3A4	GRIN1	GRIN2A	GRIN2B	SLC22A2	SLC47A1	SLC6A2	TDP1	TP53
+acebutolol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=16	ADRB1
+acetaminophen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=17	BRD2	CA1	CA12	CA14	CA2	CA3	CA4	CA7	CYP1A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	FAAH	GFER	MB	NR0B1	PTGS1	PTGS2	TRPV1
+acetazolamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=18	AQP4	CA1	CA11	CA12	CA13	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA7	CA9	MMP12	MMP2
+acetohexamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=19	ABCC8	KCNJ11
+acetohydroxamic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=20	CA2	TDP1
+acyclovir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=21	ABCB1	RECQL	TDP1
+albendazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=22	ABCB1	AHR	APP	AR	ATAD5	CYP1A2	ESR1	GMNN	HSPB1	HTR1E	JAK2	KLF5	MCHR1	NPBWR1	NR1H4	PPARG	STK33	TDP1	TP53	TUBB	VDR
+Salbutamol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=23	ADRB2	GLP1R	PTGER2
+alendronate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=24	FDPS	PTPRC
+allopurinol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=25	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DUSP1	HPRT1	XDH
+alprazolam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=26	AR	ATAD5	BRD2	BRD3	BRD4	BRDT	CREBBP	ESR1	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	HPGD	NR3C1	PBRM1
+altretamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=27	CYP1A2	FPR1	PLCG1
+amantadine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=28	SLC47A1
+amifostine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=29	DRD3
+aminoglutethimide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=30	CYP11A1	CYP19A1	LARGE
+theophylline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=31	ADCY1	ADORA1	ADORA2A	ADORA2B	ADORA3	EHMT2	ESR1	PDE3A	PDE3B	PDE4A	PDE4B	PDE4C	PDE4D
+amiodarone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=32	ADORA3	ADRA2A	ADRA2B	ADRB1	ADRB3	BDKRB2	CBX1	CCR2	CCR4	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP1A2	CYP2C19	CYP2C9	CYP2D6	DRD1	DRD2	DRD3	DRD4	EBP	EDNRA	ERBB2	FYN	GMNN	HRH2	HTR2A	HTR2B	HTR2C	HTR6	KCNH2	MC3R	MC4R	MC5R	MTOR	OPRD1	OPRK1	OPRM1	SIGMAR1	SLC6A2	SLC6A3	SLC6A4	SQLE	TACR2
+amitriptyline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=33	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP1A2	CYP2C9	CYP2D6	CYP3A4	DRD1	DRD2	DRD3	DRD5	HRH1	HRH2	HTR2A	HTR2B	HTR2C	HTR6	KCNH2	SCN2A	SCN5A	SCN9A	SIGMAR1	SLC22A1	SLC6A2	SLC6A3	SLC6A4
+amlexanox	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=34	AHR	AR	ATAD5	CASP3	GAA	NFE2L2	NPC1	PDE4A	PDE4B	PDE4C	PDE4D	PKM	RAB9A	SENP6	SENP7	SENP8	TNFSF10
+amlodipine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=35	ADRA2A	ADRA2C	CACNA1C	CACNA1D	CACNA1F	CACNA1S	HTR6	KCNK2	NAE1	SLC6A3	UBE2M
+amoxapine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=36	ABCB1	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP19A1	CYP1A2	CYP2D6	DRD1	DRD2	DRD3	DRD4	DRD5	ESR1	HRH1	HTR1A	HTR2A	HTR2B	HTR2C	HTR6	HTR7	HTT	KCNH2	NR3C1	SLC6A2	SLC6A4	TDP1	THPO	TP53	VDR
+anastrozole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=37	CYP19A1
+anisindione	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=38	CASP3	ESR1	GGCX	SENP6	SENP7	SENP8	SMN2	TP53
+antazoline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=39	CYP2D6
+aspirin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=40	CYP1A2	CYP2C9	CYP2D6	CYP3A4	ITGA2B	ITGB3	PTGS1	PTGS2
+atenolol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=41	ADORA3	ADRB1	ADRB2
+azathioprine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=42	ABCB1	AHR	ATAD5	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	HBB	IDH1	JAK2	NFE2L2	PPAT	STK33	TNFRSF10B	TP53
+azelaic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=43	ESR1	MBNL1
+baclofen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=44	ABCB1	ADORA3	GABBR1	GABBR2	NFE2L2	NFKB1
+BENDROFLUMETHIAZIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=45	SLC12A3	WEE1
+benzthiazide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=46	ABCB1	BAZ2B	CYP3A4	PAFAH2	SLC12A3
+bethanechol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=47	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5
+bisacodyl	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=48	AR	CYP2C9	CYP3A4	ESR1	GPR55	HTR5A	IL1B	MC4R	MCHR1	MCL1	NPBWR1	NPY1R	NPY2R	NR1H4	OPRD1	OPRK1	OPRM1	RBBP9	SLC12A5	SLC6A3	TDP1	TP53	TSHR
+brimonidine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=49	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ALDH1A1	DLD	EHMT2	HPGD	KDM4E	MCL1	MPI	RGS4	VDR
+bumetanide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=50	ABCB1	BAP1	CA1	CA12	CA14	CA2	CA4	CA5A	CA5B	CA6	CA7	CA9	CFTR	HSD17B10	KDM4E	MAP4K2	NFE2L2	SLC12A1	SLC12A5
+bupivacaine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=51	SCN4A
+busulfan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=52	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	ESR1	MMP9
+butenafine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=53	ACHE	ADRA2A	CYP2D6	SIGMAR1	SLC6A2	SLC6A4
+caffeine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=54	ACHE	ADCY1	ADORA1	ADORA2A	ADORA2B	ADORA3	AR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	KCNH2	NFE2L2
+VERAPAMIL	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=55	ABCB1	ABCC1	ADRA2A	DRD3	HRH2	HTR2A	HTR2B	HTR2C	KCNH2	SLC22A1	SLC6A4	TDP1
+Candesartan cilexetil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=56	AGTR1	AR	CYP19A1	CYP3A4	KAT2A	PPARG	TDP1	USP1	VDR
+Carbastat	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=57	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CHRNA4	CHRNB2
+carbamazepine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=58	AR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	NR3C1	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+carmustine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=59	ALDH1A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	GSR	NFE2L2	TP53
+carprofen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=60	HTT	PTGS2
+carvedilol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=61	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ADRB1	ADRB2	ADRB3	BAZ2B	DRD1	DRD2	DRD3	HCRTR1	HTR2A	HTR2B	HTR2C	HTR6	KCNH2	KDM4E	MAP4K2	NPY1R	NPY2R	OXTR	PTGER2	SLC22A2	SLC6A2	SLC6A3	SLC6A4
+celecoxib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=62	ADORA3	ADRA2B	ADRB3	AR	CA12	CA13	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA7	CA9	CYP19A1	CYP2D6	CYP3A4	DRD1	ESR1	MAPK14	MC4R	NFE2L2	NR1I2	NR3C1	OPRM1	PDPK1	PLA2G7	PTGER2	PTGES	PTGS1	PTGS2	RORC	SLC6A2	SLC6A3	SLC6A4	STAT3
+chlorambucil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=63	ATAD5	BAZ2B	GFER	NFE2L2	NFKB1	RORC	STK33	TDP1	TP53
+chlordiazepoxide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=64	AR	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	HRH1	MRGPRX1	TP53
+chloroquine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=65	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EHMT2	KCNH2	NQO2	TDP1	TLR7	TLR9
+chlorothiazide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=66	ESR2	SLC12A3
+chloroxine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=67	AHR	ALOX12	ALOX15	ALOX15B	ALOX5	APLNR	AR	ATAD5	CCR6	CXCR6	CYP19A1	DRD3	EHMT2	ESR1	GMNN	HSP90AA1	HSPB1	HTT	KCNQ1	KDM4A	KDM4E	NOD1	NOD2	NR3C1	OPRK1	PSMD14	RBBP8	SIAE	SIX1	SLC12A5	TDP1	TNF	TP53	VDR
+DEXCHLORPHENIRAMINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=68	ADRA1D	ADRA2A	ADRA2B	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	HRH1	HRH2	HTR2A	HTR2C	KCNH2	SIGMAR1	SLC6A2	SLC6A3	SLC6A4
+chlorpromazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=69	ADRA1D	ADRA2A	ADRA2B	ADRA2C	AOX1	CALM1	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP1A2	CYP2C9	CYP2D6	CYP3A4	DRD1	DRD2	DRD3	DRD4	DRD5	EGFR	ERBB2	FYN	HRH1	HRH2	HTR1A	HTR2A	HTR2B	HTR2C	HTR6	HTR7	IDH1	KCNH2	MAPT	MC3R	MC4R	MC5R	NR1H4	OPRD1	OPRK1	OPRM1	SIGMAR1	SLC22A1	SLC6A2	SLC6A3	SLC6A4	TACR2	TDP1	THPO	TP53
+chlorpropamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=70	ABCC8	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	KCNJ11	NFKB1
+chlorthalidone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=71	CA1	CA12	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA7	CA9	CFTR	SLC12A3
+chlorzoxazone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=72	ABCB1	CYP1A2	DRD2	KCNN4
+cilostazol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=73	ALDH1A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DRD1	NFE2L2	NPY1R	NPY2R	NR5A1	NR5A2	PDE3A	TDP1	TSHR
+cimetidine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=74	CYP1A2	CYP2C19	CYP2D6	CYP3A4	HRH2	POLK	SLC22A2	SLC47A1	SLC47A2
+cinoxacin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=75	ABCB6	CHRM4	PLCG1
+ciprofloxacin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=76	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	HSD17B10
+cisapride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=77	ABCB1	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CYP2D6	CYP3A4	DRD1	DRD2	DRD3	HMGCR	HTR2A	HTR2B	HTR2C	HTR4	KCNH2	SIGMAR1	SLC6A4
+Clobazam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=78	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+clofazimine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=79	ABCB1	ALPI	APAF1	APLNR	BCL2L1	CACNA1H	CBX1	CFTR	CTBP1	CXCR6	CYP2D6	EHMT2	EYA2	GNAI1	HSP90AA1	ITGA4	KCNQ1	LYPLA1	MAP3K3	MAPT	MCL1	MDM2	MDM4	MITF	NLRP3	PADI4	PPME1	PREPL	RGS12	TDP1	TNFRSF10B	YWHAG
+clofibrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=80	CDK1	CFL1	CYP1A2	CYP2C19	CYP2D6	CYP3A4	ESR1	JUN	PPARA	TP53
+clonazepam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=81	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+clonidine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=82	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CYP2C19	CYP2C9	CYP2D6	HTR1A	NISCH	SLC22A1	SLC47A1
+clotrimazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=83	ABCB1	ACHE	ADORA1	ADORA2A	ADORA3	ADRA1D	ADRA2A	ADRA2B	ADRB1	ADRB2	ADRB3	AHR	AR	ATXN2	AVPR2	BAZ2B	CA2	CBX1	CCR4	CDK1	CFL1	CHRM1	CHRM2	CHRM3	CHRM4	CXCR1	CYP17A1	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	CYP51A1	CYSLTR1	CYTH2	DRD1	DRD2	DRD3	DRD4	ESR1	FYN	GLP1R	GMNN	GPR55	HIF1A	HRH1	HRH2	HSP90AA1	HSPB1	HTR2A	HTR2B	HTR2C	HTR6	JUN	KCNH2	KCNK3	KCNN4	KCNQ1	KDM4A	MAPK1	NFE2L2	NPSR1	NR1H4	NR1I3	NR3C1	OPRD1	OPRK1	OPRM1	PPARD	PPARG	PPP1CA	PTAFR	PTGS2	RAPGEF4	SLC12A5	SLC6A2	SLC6A3	SLC6A4	TACR1	TACR2	TBXAS1	TDP1	THPO	TP53	TRPM2	TSHR
+clozapine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=84	ADORA3	ADRA1D	ADRA2A	ADRA2B	ADRA2C	AR	CBX1	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP1A2	CYP2C19	CYP2C9	CYP3A4	DRD1	DRD2	DRD3	DRD4	DRD5	HRH1	HRH2	HRH3	HRH4	HTR1A	HTR1B	HTR1D	HTR1E	HTR1F	HTR2A	HTR2B	HTR2C	HTR3A	HTR5A	HTR6	HTR7	KCNH2	MAPT	NR3C1	POLI	PPARG	RGS4	SLC6A2	SLC6A4	TDP1	TLR3
+cyclobenzaprine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=85	CYP1A2	CYP2D6	DRD1
+cyclophosphamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=86	CBX1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EHMT2
+cyclothiazide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=87	GRIA1	GRIA2	GRIA3	GRIA4	RECQL	SLC12A3
+CYPROHEPTADINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=88	ADRA1D	ADRA2A	ADRA2B	ADRA2C	AR	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP2D6	DRD1	DRD2	DRD3	HRH1	HRH2	HTR2A	HTR2B	HTR2C	HTR6	HTR7	KCNH2	SLC6A2	TDP1
+dapsone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=89	CYP1A2	CYP2C9	CYP2D6	CYP3A4	HTR6
+decamethonium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=90	ARSA
+deferiprone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=91	BAZ2B	DRD2	EHMT2	KDM4A	KDM4E
+deferoxamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=92	HIF1A	MMP12	MMP2	SENP8	TDP1
+diazepam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=93	ADORA3	ALB	AR	ATAD5	ESR1	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	NR3C1	ORM1
+diazoxide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=94	ABCB1	ABCC8	CYP1A2	CYP2D6	EHMT2	KCNJ11	KCNJ8
+diclofenac	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=95	ALB	CXCL8	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	PTGS1	PTGS2	UGT1A10	UGT1A4	UGT1A6	UGT1A7	UGT1A9	UGT2B7
+dichlorphenamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=96	ABCB1	CA1	CA12	CA13	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA7	CA9	CFTR
+dicyclomine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=97	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP19A1	CYP1A2	CYP2D6	CYP3A4	DRD1	DRD3	EHMT2	HRH2	HTR2A	HTR2B	HTR2C	HTR6	KCNH2	SIGMAR1
+Pentetic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=98	ATAD5	GMNN	KDM4E
+DIPHENIDOL	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=99	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP2D6	DRD2	DRD3	HTR2A	SIGMAR1
+diflunisal	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=100	ALB	CA1	CA2	HSD17B10	NFE2L2	PPARG	PTGS1	PTGS2	SLC12A5
+diphenhydramine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=101	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DRD3	HRH1	HRH4	HTR2A	HTR2B	HTR2C	KCNH2	SLC6A2
+diphenylpyraline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=102	CYP2D6
+dipyridamole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=103	ABCB1	ALOX15B	ATAD5	ATM	BRCA1	CRHBP	CRHR2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DRD1	DRD2	EHMT2	GMNN	GNAI1	HSD17B10	HSP90AA1	HSP90AB1	KAT2A	KEAP1	MCOLN1	NFE2L2	NOD2	PDE10A	PDE11A	PDE1A	PDE1B	PDE1C	PDE2A	PDE3A	PDE3B	PDE4A	PDE4B	PDE4C	PDE4D	PDE5A	PDE6A	PDE6B	PDE6C	PDE6D	PDE6G	PDE6H	PDE7A	PDE7B	PDE8A	PDE8B	PDE9A	PLK1	PRMT1	PRUNE	RAPGEF3	RAPGEF4	RGS12	RIPK2	SLC22A2	SLC29A1	SLC47A1	TDP1	THRB	TLR9	TNNC1	TNNI3	TNNT2	TP53	TRHR	TSG101	TSHR	USP1
+disulfiram	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=104	ABCB1	ABHD5	ADORA3	ADRA2A	ADRA2B	ADRB2	AGTR1	AHR	ALDH1A1	ALDH2	APLNR	APP	AR	ATAD5	CBFB	CBR3	CBX1	CCR2	CCR4	CCR5	CCR6	CFTR	CHRM1	CXCR2	CXCR6	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP3A4	DRD1	DRD2	DRD3	DRD4	EHMT2	GFER	GLS	GMNN	HPGD	HSD17B10	HSP90AA1	HSPB1	HTR2B	HTR6	IL1B	KDM4A	MAOA	MAPK3	MGLL	MPHOSPH8	MTOR	NFE2L2	NFKB1	NLRP1	NOD1	NR1I2	NR2E3	OPRK1	OPRM1	PHOSPHO1	PIP4K2A	PLIN1	PLIN5	PLK1	PPARD	PPARG	PRMT1	PTGER2	RGS4	RUNX1	SLC6A3	SMARCA2	STK33	TAAR1	TDP1	THPO	TP53	TRPA1	VDR
+VALPROIC ACID	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=105	ABAT	ALDH5A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	HDAC1	HDAC10	HDAC11	HDAC2	HDAC3	HDAC4	HDAC5	HDAC6	HDAC7	HDAC8	HDAC9
+donepezil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=106	ACHE	BCHE	KCNH2	MAOB	SIGMAR1
+doxapram	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=107	CYP2D6
+doxazosin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=108	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2C	ADRB2	ATAD5	HTR2B	HTR2C	KCNH2	MMP1	MTOR	SLC6A3	SLC6A4
+droperidol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=109	ABCB1	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ALPL	CHRM4	CHRM5	CYP2D6	DRD1	DRD2	DRD3	DRD4	HRH1	HTR2A	HTR2B	HTR2C	KCNH2	UHRF1
+dyphylline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=110	PDE3A	PDE4A	PDE4B	PDE4C	PDE4D
+enflurane	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=111	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	GLRA1	GLRB	KCNK10	KCNK18	KCNK2	KCNK3	KCNK9
+enoxacin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=112	ATP6V1B2
+estazolam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=113	BRD3	BRD4	CREBBP	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+ETHACRYNIC ACID	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=114	ABCB1	ABHD5	ALDH1A1	AR	CYP2C9	EHMT2	ESR1	GALE	GMNN	GSTA1	GSTP1	HNF4A	HSPB1	IDH1	IL1B	NFE2L2	NLRP1	NR3C1	PAX8	PLIN1	PLIN5	POLH	POLI	PPARD	PPARG	RORC	SLC12A1	TDP1	TP53	VDR
+ethopropazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=115	ACHE	CBX1	EHMT2	GLS
+ethosuximide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=116	CACNA1G	CACNA1H	CACNA1I
+ethotoin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=117	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+ethoxzolamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=118	AHR	AQP4	AR	CA1	CA12	CA13	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA7	CA9	NFE2L2
+Etidronic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=119	AHR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	SMPD1
+etodolac	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=120	ABCB1	NFE2L2	PTGS1	PTGS2
+felbamate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=121	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DRD1	GRIN1	GRIN2A	GRIN2B	GRIN2C	GRIN2D	GRIN3A	GRIN3B
+felodipine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=122	ADORA3	AHR	BAP1	CACNA1C	CACNA1D	CACNA1F	CACNA1S	CTSB	CYP2C9	ESR1	GMNN	GPR55	KCNQ1	MAPT	NFE2L2	NFKB1	NR1H4	NR3C1	NR3C2	PARK2	PTGER2	RAPGEF4	RELA	TDP1
+fenofibrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=123	ACHE	ADORA3	AR	CDK1	CFL1	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP3A4	ESR1	HTR2A	HTR2C	JUN	KCNH2	PPARA	SLC6A2	SLC6A3	TP53
+fenoldopam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=124	CBX1	DRD1	DRD3	EHMT2	ESR1	RECQL
+fenoprofen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=125	PTGS1
+fentanyl	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=126	AR	MAOA	MAOB	OPRM1
+fexofenadine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=127	HRH1	KCNH2
+flavoxate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=128	CYP1A2	CYP2D6	KCNH2
+flecainide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=129	KCNH2	SCN5A
+fluconazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=130	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	CYP51A1	HSP90AA1	TARDBP
+5-Fluorocytosine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=131	AR	CASP1	MCL1
+FLUPHENAZINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=132	ADORA3	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ADRB3	CBX1	CHRM1	CHRM2	CHRM3	CHRM4	CYP1A2	CYP2D6	DRD1	DRD2	DRD3	DRD4	DRD5	EGFR	EHMT2	ERBB2	FYN	HRH1	HRH2	HTR2A	HTR2B	HTR2C	HTR6	HTR7	KCNH2	MC5R	OPRD1	OPRK1	OPRM1	SIGMAR1	SLC6A2	SLC6A3	SLC6A4	STK33	TACR2	TDP1	TP53	USP1
+flumazenil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=133	CYP1A2	CYP2C19	EIF2AK3	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	IL1B	NFE2L2
+5-Fluorouracil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=134	ATAD5	HBB	JAK2	NLRP1	PTBP1	TDP1	TP53	TYMS
+fluoxetine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=135	ADRA2B	AR	ATXN2	CHRM1	CHRM3	CHRM5	CYP1A2	CYP2D6	DRD1	HRH3	HTR2A	HTR2B	HTR2C	HTR6	KCNH2	SIGMAR1	SLC6A2	SLC6A3	SLC6A4	STK33	TDP1
+Fluphenazine decanoate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=136	DRD2
+fluphenazine enanthate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=137	DRD2
+flurazepam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=138	TDP1
+flurbiprofen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=139	AKR1C2	AKR1C3	ESR1	PPARG	PRKACB	PRKAR2B	PTGS1	PTGS2	TARDBP	UGT2B7
+flutamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=140	ABCB1	AR	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP3A4	EHMT2	ESR1	HTR6	INS	NFE2L2	NR1I2	RORC	TDP1
+4-Methylpyrazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=141	ADH1A	ADH1B	ADH1C	EHMT2
+Arformoterol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=142	ADRB1	ADRB2	ADRB3	CYP2C19	CYP2D6	TSHR
+foscarnet	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=143	CA1
+furosemide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=144	AR	CA1	CA12	CA14	CA2	CA4	CA5A	CA5B	CA6	CA7	CA9	ESR1	GPR35	HSD11B1	SLC12A1
+gabapentin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=145	CACNA1A	CACNA1B	CACNA1C	CACNA1D	CACNA1E	CACNA1F	CACNA1G	CACNA1H	CACNA1I	CACNA1S	CACNA2D1	CACNB1	CACNB2	CACNB3	CACNB4	CACNG1	CACNG2	CACNG3	CACNG4	CACNG5	CACNG6	CACNG7	CACNG8
+ganciclovir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=146	TDP1
+gemfibrozil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=147	AHR	CYP1A2	CYP2C9	JUN	NR1H2	NR2F1	NR5A1	NR5A2	PPARA	RARA	RARB	RARG	RORA	RXRA
+glimepiride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=148	ABCC8	CYP2C9	KCNJ11	PPARG
+glipizide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=149	ABCB1	ABCC8	KCNJ11	NFE2L2
+glutethimide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=150	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+glyburide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=151	ABCB1	ABCC8	ABCC9	CYP2C19	CYP2C9	CYP2D6	CYP3A4	KCNJ11	PPARG
+GUANFACINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=152	ADRA2A	ADRA2B	ADRA2C	CYP2C19	CYP2D6	CYP3A4	EHMT2	HTR2A	HTR2B	HTR2C	NISCH
+haloperidol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=153	ADRA1D	ADRA2A	ADRA2B	ADRA2C	AR	CHRM1	CHRM4	CHRM5	CYP2D6	CYP3A4	DRD1	DRD2	DRD3	DRD4	DRD5	EBP	GMNN	HRH1	HRH2	HTR1A	HTR1D	HTR2A	HTR2B	HTR2C	HTR6	HTR7	IL1B	KCNH2	MTOR	NR1I2	OPRM1	SIGMAR1	SLC6A2	SLC6A4	TDP1
+haloprogin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=154	ADORA3	ADRA2A	ADRA2B	ADRA2C	AR	CYP19A1	DRD1	DRD3	ESR1	GALE	GMNN	HTR2A	HTR2C	HTR6	KAT2A	NR3C1	OPRK1	SLC6A2	SLC6A3	SLC6A4	TACR2	TDP1	TP53	VDR
+halothane	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=155	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	GLRA1	GLRB	HSD17B10	KCNK10	KCNK18	KCNK2	KCNK3	KCNK9
+hexachlorophene	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=156	ACHE	ADAM10	ADORA2A	ADORA3	ADRA2A	ADRA2C	ADRB2	ALOX15	ALOX15B	AR	ATG4B	BARD1	BAZ2B	BRCA1	CACNA1H	CASP1	CASP6	CFTR	CYP19A1	CYP1A2	CYP2C19	CYP3A4	DRD1	EGFR	EIF4G1	EIF4H	ERBB2	ESR1	ESR2	FASN	FYN	GALK1	GMNN	GZMB	HCRTR1	HPGD	HSD17B10	HSP90AA1	HSPA1B	HSPA8	HSPB1	HTR2B	HTR2C	HTT	IDH1	KAT2A	KCNQ1	KDM4A	KLF5	LCK	MAPK1	MAPK14	MAPK3	MAPT	MC4R	MCL1	MDM2	MDM4	MITF	MRGPRX1	NFE2L2	NFKB1	NLRP1	NLRP3	NOD1	NPY1R	NPY2R	NR2E3	PABPC1	PAFAH2	PARK2	PAX8	PLA2G1B	PLA2G7	PLK1	POLB	POLH	PPARD	PPARG	PPME1	PPP1CA	PRNP	PTGER2	PTGS2	RAPGEF3	RAPGEF4	RORC	SAE1	SIRT5	SLC12A5	SLC5A7	SLC6A3	SLC6A4	SMAD3	STAT1	STAT3	STK33	SUMO1	SUMO2	TACR2	TBXAS1	TDP1	THRB	TP53	TSHR	UBA2	UBE2I	USP1	USP2	VCP	VDR
+Miltefosine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=157	AKT1	CDC25A	NR1H4
+hydralazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=158	ATAD5	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EHMT2	NPC1	PKM	RAB9A	SMN2	THPO
+hydrochlorothiazide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=159	CA1	CA2	SLC12A3
+hydroflumethiazide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=160	KDM4E	SLC12A3
+hydroxychloroquine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=161	ADRA1D	CHRM2
+hydroxyurea	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=162	CA2	CA5A	CA9	GLS	RRM1	RRM2	RRM2B
+hydroxyzine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=163	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4
+Phenelzine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=164	AOC3	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EHMT2	MAOA	RAB9A
+lidocaine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=165	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+ifosfamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=166	UBE2N
+imipramine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=167	ADORA3	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DRD1	DRD2	EHMT2	HRH1	HTR2A	KCNH2	SLC22A1	SLC22A2	SLC47A1	SLC6A2	SLC6A3	SLC6A4	TDP1
+Amrinone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=168	ABHD5	ALDH1A1	ALOX15	CYP1A2	CYP2C19	CYP3A4	DLD	EHMT2	GAPDH	GSTO1	HIF1A	HSD17B10	KDM4E	MAPT	MPI	PDE3A	PDE3B	PIP4K2A	PLIN1	PLIN5	PLK1	POLI	PRMT1	S100A4	TDP1	THRB	USP1	VCP	VDR
+indapamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=169	APEX1	CA1	CA12	CA13	CA14	CA2	CA4	CA5A	CA5B	CA6	CA7	CA9	SIX1	SLC12A3
+indomethacin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=170	ABCB1	ABCC1	AKR1C2	AKR1C3	ALOX5	AR	CXCL8	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DHRS9	GLO1	HPGD	PPARG	PTGDR2	PTGES	PTGS1	PTGS2	SLC6A3	SLCO1B1	SLCO1B3
+irbesartan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=171	AGTR1	CYP3A4	PPARG
+isocarboxazid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=172	CYP1A2	ESR1	ITGA4	MAOA	MAOB
+isoetharine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=173	ADRB2	EHMT2	VDR
+isoflurane	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=174	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	GLRA1	GLRB	KCNK10	KCNK18	KCNK2	KCNK3	KCNK9
+isoniazid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=175	ABCB1	AHR	CYP1A2	CYP2C9	CYP3A4
+isopropamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=176	CYP2D6	GNAI1	RGS12
+isoproterenol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=177	ADRB1	ADRB2	ADRB3	CBX1	DRD3	EHMT2	MTOR	VDR
+isradipine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=178	AHR	APAF1	CACNA1C	CACNA1D	CACNA1F	CACNA1S	CYP1A2	CYP3A4	NPSR1
+ketamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=179	GRIN1	GRIN2A	GRIN2B	TTR
+ketoprofen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=180	ABCB1	CFTR	GOPC	PMP22	PTGS1	PTGS2
+ketorolac	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=181	PTGS1	PTGS2
+ketotifen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=182	ADRA1D	ADRA2A	ADRA2B	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP2D6	DRD1	DRD3	HRH1	HRH2	HTR2A	HTR2B	HTR2C	HTR6
+labetalol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=183	ADRA1D	ADRB1	ADRB2	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	HPSE	HTR2B	SIGMAR1	SLC6A2	SLC6A3
+lamotrigine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=184	AQP4	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+lansoprazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=185	AHR	ALOX15	ATP4A	ATP4B	BAZ2B	CYP1A2	CYP2C19	CYP2D6	CYP3A4	EHMT2	GFER	KDM4E	MAPT	MCL1	NFE2L2	NPC1	PHOSPHO1	PIP4K2A	PLK1	PPARG	PRMT1	RAB9A	RGS4	TDP1	VDR
+leflunomide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=186	AHR	ATAD5	CASP3	CYP1A2	CYP3A4	DHODH	DRD1	DRD2	HSPB1	HTT	MAOA	MMP14	NFE2L2	NR0B1	RAB9A	SENP6	SENP7	SENP8	SLC6A2	SLC6A3	SMN2	TDP1
+letrozole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=187	CYP11B1	CYP11B2	CYP19A1	CYP3A4	DRD2
+loperamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=188	ADRB2	AR	CYP19A1	CYP2D6	CYP3A4	DRD3	HRH2	HTR2B	MTOR	OPRD1	OPRK1	OPRM1	PDE4B	SIGMAR1	SLC22A1	SLC6A4	STK33	TDP1	TEK	TP53	TSHR
+loratadine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=189	AR	CACNA1H	CYP2C19	CYP2C9	CYP2D6	DRD3	ESR1	GMNN	HIF1A	HRH1	HTR2B	KCNH2	MAPK1	NFE2L2	NPSR1	NR1H4	NR1I2	PHOSPHO1	PPARD	PPARG	TDP1	TP53	TSHR
+lorazepam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=190	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+losartan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=191	AGTR1	CYP2C9	CYP3A4	PPARG
+loxapine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=192	DRD1	DRD2	DRD3	DRD4	HTR2A	HTR2C	HTR6
+mafenide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=193	CA1	CA12	CA14	CA2	CA4	CA5A	CA5B	CA6	CA7	CA9
+malathion	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=194	AHR	CYP3A4	HSD17B10	NFE2L2	TDP1	VDR
+mazindol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=195	SLC6A2	SLC6A3	SLC6A4
+mebendazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=196	ABCB1	ABL1	AHR	AR	ATAD5	CYP1A2	GMNN	HTR1E	KDR	MAPK10	NFE2L2	NR1H4	PPARG	STK33	TDP1	TP53
+meclizine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=197	CYP1A2	CYP2C9	CYP2D6
+meclofenamate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=198	AKR1C1	AKR1C2	AKR1C3	MAPK1	PTGS1	PTGS2
+MECLOFENAMATE SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=199	ALOX5	CYP2C9	CYP3A4	GMNN	HIF1A	PTGS1	PTGS2
+mefenamic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=200	AKR1C1	AKR1C2	AKR1C3	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	HIF1A	NFE2L2	PPARG	PTGS1	PTGS2	TDP1
+mefloquine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=201	KCNH2	STK33	TDP1
+memantine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=202	GRIN1	GRIN2A	GRIN2B	SLC22A1
+menadione	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=203	ABCB1	ABHD5	AHR	ALDH1A1	AOX1	AR	ATXN2	BLM	CDC25B	CDC25C	CFTR	CYP19A1	CYP1A2	CYP2C19	CYP2D6	DRD3	EHMT2	ESR1	GAPDH	GSR	GSTO1	HBB	IDO1	MAOA	MAOB	MAPT	NFE2L2	NQO1	PLIN1	PLIN5	PPARD	PTGER2	TDP1	TP53	VDR
+meperidine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=204	OPRM1
+mepivacaine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=205	CYP1A2	CYP2C19	CYP2C9	CYP2D6
+meprobamate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=206	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+5-Aminosalicylic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=207	ALOX5	APEX1	BCL2L1	CASP1	CYP2C19	CYP3A4	EHMT2	ESR1	GAPDH	GLS	GSTO1	HPGD	HSD17B10	ITGA4	MCL1	PADI4	PLA2G7	POLK	PTGS1	PTGS2	RECQL	USP1	VDR
+mesoridazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=208	EHMT2	HPGD	HSD17B10	KCNH2
+metaproterenol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=209	ADRB2	GLS	PTGER2
+metharbital	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=210	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+methazolamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=211	ABCB1	CA1	CA12	CA13	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA7	CA9	CRHBP	CRHR2	DRD3	EHMT2
+methoxsalen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=212	ABCB1	ACHE	AHR	CYP1A2	CYP2C19	CYP2D6	CYP3A4	ESR1
+methoxyflurane	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=213	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	GLRA1	GLRB
+methyclothiazide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=214	NFE2L2	SLC12A3
+methylphenidate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=215	SLC6A2	SLC6A3
+methyprylon	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=216	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+metoclopramide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=217	ADRA2A	CYP1A2	CYP2D6	DRD2	DRD3	HTR2A	HTR2B	HTR2C
+metolazone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=218	ABCB1	CA12	CA14	CA2	CA4	CA5A	CA5B	CA6	CA7	CA9	HSD17B10	SLC12A3
+metoprolol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=219	ADRB1	ADRB2	CYP2D6
+metronidazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=220	ALDH1A1	DRD2	EIF4H
+metyrapone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=221	CYP11B1	CYP11B2	CYP1A2	CYP3A4
+miconazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=222	ACHE	ADORA1	ADORA2A	ADORA3	ADRA1D	ADRA2A	ADRA2B	ADRB1	ADRB3	AGTR2	AHR	CHRM1	CHRM2	CHRM3	CHRM4	CNR1	CYP17A1	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	CYP51A1	DRD1	DRD2	DRD3	DRD4	EGFR	ERBB2	FYN	GRM6	HCRTR1	HRH2	HSP90AA1	HTR2A	HTR2B	HTR2C	HTR6	IDH1	KCNK3	KDM4A	MC3R	MC4R	MC5R	OPRD1	OPRK1	OPRM1	PTGS2	SLC6A2	SLC6A3	SLC6A4	TACR1	TACR2	TBXAS1	TDP1	VDR
+midodrine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=223	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4
+milrinone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=224	PDE3A	PDE3B	SELE	TDP1
+minoxidil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=225	ABCB6	ABCC9	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	KCNJ11	PTBP1
+mirtazapine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=226	ADRA2A	ADRA2B	ADRA2C	CYP2C19	CYP2C9	CYP2D6	DRD3	HRH1	HTR2A	HTR2C	HTR3A	HTR7
+mitotane	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=227	ADORA3	ADRA2A	ARNT	ATM	CYP11A1	CYP11B1	ESR1	HTR2B	HTR6	KCNH2	KCNK3	NFE2L2	NR1I2	NR3C1	RORC	SLC6A2	SLC6A3	SLC6A4	TACC3	TP53
+nabumetone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=228	AHR	ATAD5	CYP1A2	ESR1	MAOA	NFE2L2	NR0B1	NR5A1	PTGS2	RAPGEF4	SLC6A2	SMN2
+nalidixic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=229	BAZ2B	DRD2	EHMT2	PLCG1
+naphazoline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=230	CYP2D6	NISCH
+naratriptan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=231	HTR1A	HTR1B	HTR1D	HTR1E	HTR1F
+nevirapine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=232	ABCB1	ABCC1	ABCC2	ABCC3	ABCG2	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	TDP1
+nicardipine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=233	ABCB1	ABCG2	AR	ATAD5	ATXN2	CBX1	CYP19A1	CYP2C9	DRD1	EHMT2	ESR1	HSPB1	MTOR	NR1H4	NR3C1	PARK2	STK33	TDP1
+niclosamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=234	ACP1	AHR	ATAD5	ATXN2	BARD1	BRCA1	CFTR	CRHBP	CRHR2	CYP19A1	CYP1A2	CYP2C9	CYP2D6	CYP3A4	DRD1	EHMT2	ESR1	FZD1	GCK	GMNN	GNAS	HCRTR1	HIF1A	IDH1	IL1B	MAPT	MDM2	MDM4	MITF	MTOR	NFE2L2	NLRP3	NPC1	NR0B1	OXTR	PKM	RAB9A	RXRA	SENP6	SENP7	SENP8	SMN1	SMN2	STAT3	STK33	TDP1	THPO	TNFRSF10B	TP53	TSHR
+nifedipine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=235	ABHD5	ADORA1	ADORA2A	ADORA3	AHR	ALDH1A1	APBA1	AR	ATAD5	ATXN2	BARD1	BAZ2B	BRCA1	CACNA1B	CACNA1C	CACNA1D	CACNA1F	CACNA1S	CBX1	CCR2	CTBP1	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DRD1	DRD3	EHMT2	GAPDH	GMNN	GSR	HIF1A	HPGD	HSD17B10	HTR2C	KCNA5	KCNJ1	KDM4E	MAPK1	MAPT	MDM2	MDM4	MPHOSPH8	MPI	NFE2L2	NFKB1	NR1H4	NR1I2	NR3C1	PARK2	PIP4K2A	PLIN1	PLIN5	RGS4	RORC	SLC12A5	TBXAS1	TDP1	VDR
+nilutamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=236	AR	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DRD3	ESR1	NFE2L2	TDP1
+nimodipine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=237	ADAM10	AHR	AR	ATAD5	CACNA1C	CACNA1D	CACNA1F	CACNA1S	CNR1	CYP2C19	CYP2C9	NR1H4	NR1I2	NR3C1	NR3C2	PARK2	TDP1	WHSC1
+nisoldipine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=238	ABHD5	ADORA2A	ADORA3	AHR	AR	CACNA1C	CACNA1D	CACNA1F	CACNA1S	CBX1	CFTR	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EHMT2	ESR1	GMNN	HNF4A	HSPB1	IDH1	IL1B	KCNH2	KCNQ1	KDM4A	MDM2	MDM4	MLLT3	MRGPRX1	NFE2L2	NR3C1	PLIN5	PLK1	PRMT1	SMAD3	TARDBP	TDP1	TP53	VDR
+nitroglycerin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=239	GUCY1A2	GUCY1A3	GUCY1B2	GUCY1B3
+norfloxacin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=240	ABCB1	DRD1	EHMT2	KDM4E	MAP3K3	SLC5A7
+nortriptyline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=241	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ATXN2	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP1A2	CYP2C19	CYP2D6	DRD1	DRD3	HRH1	HRH2	HTR2A	HTR2B	HTR2C	HTR6	SLC6A2	SLC6A3	SLC6A4	TDP1	TP53
+olanzapine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=242	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CFTR	CHRM1	CHRM3	CHRM4	CHRM5	DRD1	DRD2	DRD3	DRD4	GAA	GFER	HRH1	HTR1A	HTR1B	HTR1D	HTR1E	HTR1F	HTR2A	HTR2B	HTR2C	HTR6	HTR7	KCNH2	RGS4	SLC6A4
+omeprazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=243	ABCB1	AHR	AR	ATP4A	ATP4B	BAZ2B	CBX1	CHRM4	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EHMT2	GFER	HPGD	HSPB1	KDM4A	KDM4E	MAPT	MCL1	MPI	NFE2L2	NR3C1	PLK1	PPARG	TRHR	VDR
+ondansetron	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=244	CHRNA3	CHRNA4	CHRNB2	CHRNB4	CYP3A4	HTR2B	HTR3A	KCNH2	SLC22A1	SLC22A2	SLC22A3	SLC47A1	SLC47A2
+orphenadrine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=245	ADRA2A	ADRA2B	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP2D6	HRH1	HRH2	HTR2A	HTR2B	HTR2C	HTR6	KCNH2	SLC22A1	SLC22A2	SLC6A2	SLC6A4
+oxamniquine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=246	DRD2
+oxaprozin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=247	DLD	ITGA4	PPARG	PTGS1	PTGS2
+oxazepam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=248	AR	ESR1	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	NR3C1	PPARG
+oxprenolol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=249	SLC22A1
+Oxybuprocaine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=250	CYP1A2	CYP2D6
+oxybutynin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=251	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP2C19	CYP2D6	CYP3A4	DRD3	HTR2B	SIGMAR1	SLC6A2	SLC6A3
+oxymetazoline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=252	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CHRM4	CHRM5	CYP2D6	CYP3A4	HTR1B	HTR1D	HTR2A	HTR2B	HTR2C	HTR6	NISCH	TDP1
+4-Aminosalicylic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=253	PTGS1	PTGS2
+pamidronate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=254	FDPS
+pantoprazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=255	AHR	MAPT	NFE2L2	SLC22A2	SLC47A1	SLC47A2	VDR
+pargyline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=256	MAOA	MAOB
+penciclovir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=257	TDP1
+pentamidine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=258	ADRA2A	CHRM2	CHRM4	CHRM5	DRD3	HTR2A	HTR2C	KCNH2	MAOA	S100B	SLC22A1	SLC22A2	SLC22A3	SLC47A1	SLC47A2	SLC6A2	SLC6A3
+pentobarbital	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=259	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+pentoxifylline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=260	ABCB1	ACHE	ADORA2A	ADORA2B	CYP1A2	CYP2C9	PDE10A	PDE1A	PDE1B	PDE1C	PDE2A	PDE3A	PDE3B	PDE4A	PDE4B	PDE4C	PDE4D	PDE5A	PDE6A	PDE6B	PDE6C	PDE6D	PDE6G	PDE6H	PDE7A	PDE7B	PDE8A	PDE8B	PDE9A
+perphenazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=261	ABCB1	AOX1	APAF1	ATXN2	CBX1	CHRM1	CHRM4	CHRM5	CYP1A2	CYP2D6	DRD1	DRD2	GFER	GMNN	HTR2A	HTR2C	HTR6	HTR7	KCNH2	MAP4K2	MLLT3	MPHOSPH8	MTOR	PLA2G7	PREPL	RAD52	TDP1	THPO	TP53	UBE2N
+phenacemide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=262	ESR1	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+PHENAZINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=263	CACNA1H	EHMT2	MAP3K3	MCL1	NFE2L2
+phenindione	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=264	EHMT2	VKORC1
+phentermine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=265	SLC6A2	TAAR1
+phenylbutazone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=266	ALB	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EHMT2	ESR1	ESR2	FPR1	ITGA4	MCL1	NR1I2	PTGS1	PTGS2	TP53
+pindolol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=267	ABCB1	ADRB1	ADRB2	ADRB3	GLA	HTR1A	HTR1E	HTR2A	HTR2B	NPY1R	NPY2R
+Pioglitazone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=268	CA2	MAOA	MAOB	PPARA	PPARG	YES1
+pipobroman	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=269	ALDH1A1	KDM4E	NFE2L2
+polythiazide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=270	SLC12A3
+prazepam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=271	AR	ESR1	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	NFE2L2	NR1H4	NR3C1	PPARG	TDP1	TP53
+praziquantel	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=272	ESR1
+prazosin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=273	ADORA3	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	AR	CYP3A4	HSD17B10	HTR2B	KCNH2	MMP1	MMP9	NR1H4	SLC22A1	SLC22A2	SLC47A1	SLC47A2	STK33	TDP1	TP53
+prilocaine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=274	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+PRIMAQUINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=275	ACHE	CYP1A2	NQO2	SLC6A4
+primidone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=276	AR	DRD2	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	HTT	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+probenecid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=277	AR	ESR1	SLC22A11	SLC22A6	SLC22A8
+probucol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=278	ABCA1	ALOX15	S1PR4
+PROCAINAMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=279	ACHE
+prochlorperazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=280	ADRA1D	ADRA2A	ADRA2B	ADRA2C	APAF1	ATXN2	BAZ2B	CBX1	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DRD1	DRD2	DRD3	DRD4	EHMT2	FYN	GMNN	HRH1	HTR2A	HTR2B	HTR2C	HTR6	IDH1	KCNH2	KCNJ1	KDM4A	MAP4K2	MCL1	MDM2	MDM4	MPHOSPH8	NCF1	OXTR	PLA2G7	PREPL	RAPGEF4	SIGMAR1	SLC22A1	SLC6A2	SLC6A3	SLC6A4	STK33	TDP1	TP53	UBE2N
+procyclidine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=281	HRH1
+promazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=282	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP1A2	CYP2D6	DRD1	DRD2	DRD3	HIF1A	HRH1	HRH2	HTR2A	HTR2B	HTR2C	HTR6	MAPT	SIGMAR1	SLC22A1	SLC6A2	SLC6A4	TDP1
+promethazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=283	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ATXN2	CBX1	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	DRD1	DRD2	DRD3	EHMT2	HRH1	HRH2	HTR2A	HTR2B	HTR2C	HTR6	HTT	SIGMAR1	SLC22A1	SLC6A2	SLC6A4
+propafenone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=284	ABCB1	ABCC9	ADRB1	ADRB2	ADRB3	CYP1A2	CYP2D6	DRD1	HTR2A	HTR2B	HTR2C	HTR6	KCNH2	KCNJ11	MTOR	SCN5A	SIGMAR1	SLC22A1	SLC6A2	SLC6A3	TDP1
+proparacaine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=285	CYP1A2	MAOA	SIGMAR1
+propiomazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=286	STK33
+propofol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=287	CA2	CYP1A2	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	GLS	HTR2B	HTR2C	PTGS1	SLC6A2	UGT1A9
+propranolol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=288	ADRB1	ADRB2	ADRB3	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EHMT2	HTR2A	HTR2B	HTR2C	HTR6	SIGMAR1	SLC6A4	TDP1
+protriptyline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=289	ADORA3	CYP2D6	DRD1	HSD17B10	MAPT	NFKB1	SLC6A2	THPO
+pyridostigmine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=290	CBX1	CYP1A2	CYP2C9	CYP2D6	CYP3A4
+pyrimethamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=291	ACP1	AR	CYP19A1	CYP1A2	DHFR	EPAS1	ESR1	HIF1A	IDH1	JAK2	MDM2	MDM4	MRGPRX1	NFE2L2	NFKB1	RELA	TDP1	TNFRSF10B	TP53
+quazepam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=292	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+quetiapine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=293	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CHRM1	CHRM2	CHRM4	CHRM5	CYP3A4	DRD1	DRD2	DRD3	DRD4	HRH1	HTR1A	HTR1D	HTR1E	HTR1F	HTR2A	HTR2B	HTR2C	HTR6	KCNH2	SIGMAR1	TDP1
+rabeprazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=294	ADORA3	ADRA2B	DRD3
+riluzole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=295	AHR	AR	ATAD5	CYP1A2	CYP3A4	ESR1	HTR1A	NPC1	NR3C1	RAB9A	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A	SLC6A2	TARDBP	TP53
+rimantadine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=296	SLC22A2	SLC47A1
+risperidone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=297	ADRA1A	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CHRM1	CYP2D6	DRD1	DRD2	DRD3	DRD4	HRH1	HRH2	HTR1A	HTR1B	HTR1D	HTR1E	HTR1F	HTR2A	HTR2B	HTR2C	HTR6	HTR7	KCNH2	SLC22A2	SLC47A1	SLC6A4
+rofecoxib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=298	ALDH1A1	MBD2	PTGS1	PTGS2	UHRF1
+ropinirole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=299	CYP2D6	DRD2	DRD3	HTR1A	KCNH2
+Salmeterol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=300	ADRB1	ADRB2	ADRB3	APAF1	AR	MAP4K2	NPY1R	NPY2R	SLC12A5	SLC5A7	TDP1
+sevoflurane	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=301	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	GLRA1	GLRB	KCNK10	KCNK18	KCNK2	KCNK3	KCNK9
+sulfadiazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=302	PTBP1
+Risedronate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=303	EHMT2	FDPS
+sotalol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=304	ADRB1	ADRB2	AR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4
+Vorinostat	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=305	ACE	ATAD5	CFTR	CYP3A4	ESR1	GMNN	HDAC1	HDAC10	HDAC11	HDAC2	HDAC3	HDAC4	HDAC5	HDAC6	HDAC7	HDAC8	HDAC9	MDM2	MDM4	MITF	NCOR1	NCOR2	NFE2L2	NR0B1	NR3C1	PAX8	TDP1	TP53
+sulfameter	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=307	APOBEC3G	ITGA4
+sulfamethoxazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=308	ABCB1
+sulfanilamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=309	CA1	CA12	CA13	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA7	CA9	CYP19A1
+sulfaphenazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=310	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	HSD17B10	NFKB1
+sulfinpyrazone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=311	ABCB1	ALDH1A1	CYP3A4	EHMT2	FPR1	HPGD	ITGA4	KDM4E	PRMT1	SLC22A12	VDR
+sulfisoxazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=312	AR	EDNRA	ESR1	TSHR
+sumatriptan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=313	AQP4	HTR1A	HTR1B	HTR1D	HTR1E	HTR1F	HTR5A	HTR6	HTR7	SLC47A1
+suprofen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=314	PTGS1	PTGS2
+tazarotene	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=315	CYP19A1	ESR1	NFE2L2	NR1H4	PPARD	RARA	RARB	RARG	TP53
+temazepam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=316	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	NR3C1
+temozolomide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=317	PABPC1
+terazosin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=318	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	HTT	KCNH2	SLC22A1	SLC5A7
+terbutaline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=319	ADRB2
+thalidomide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=320	ABCB1	CFTR	GNAO1	RGS4	RGS7	RGS8
+thiabendazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=321	AHR	ATAD5	BRCA1	CYP1A2	ESR1	FKBP1A	INS	METAP1	METAP2	SMN2
+thioridazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=322	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ATXN2	CBX1	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP1A2	CYP2C19	CYP2D6	DRD1	DRD2	DRD3	DRD4	EGFR	EHMT2	ESR1	FYN	HRH1	HRH2	HTR1A	HTR2A	HTR2B	HTR2C	HTR6	HTR7	KCNH2	OPRK1	PIM1	PPARD	PPARG	SIGMAR1	SLC6A2	SLC6A3	SLC6A4	TDP1
+thiotepa	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=323	AR	EHMT2	ERAP1	GMNN	HPGD	PRMT1	TDP1	TP53	VDR
+ticlopidine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=324	ADRA2A	ADRA2B	ADRA2C	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	ESR1	MAP3K3	MAP4K2	SIGMAR1
+tinidazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=325	ESR1	MAP4K2	TRHR
+tioconazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=326	ADAM10	ADAM17	AR	CYP17A1	CYP19A1	HSPB1	NR1H4	TDP1	TP53
+tolazamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=327	ABCC8	DRD2	EHMT2	ESR1	GLS	KCNJ11	KDM4A	MAP1LC3A	MPI
+tolazoline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=328	TAAR1
+tolbutamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=329	ABCC8	ALB	DRD2	KCNJ11
+tolmetin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=330	AKR1B1	CXCL8	PTGS1
+tranexamic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=331	ABCB1	PLG
+trazodone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=332	ADRA1D	ADRA2A	ADRA2B	ADRA2C	DRD1	DRD3	HRH1	HSD17B10	HTR2A	HTR2B	HTR2C	KAT2A	SIGMAR1	SLC6A4
+triamterene	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=333	AHR	AR	ATAD5	CASP1	CBFB	CTSG	CYP1A2	CYP2D6	ESR1	GAA	HIF1A	HSD17B10	HSPB1	IDH1	JAK2	KLK7	NFE2L2	NR1H4	NR3C1	PPARD	PPARG	RUNX1	SCNN1A	SCNN1B	SCNN1G	TDP1	THRB	TNFRSF10B	TP53
+triazolam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=334	BAZ2B	BRD2	BRD3	BRD4	BRDT	CREBBP	ESR1	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	KAT2B	PBRM1
+trichlormethiazide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=335	CA1	CA12	CA14	CA2	CA4	CA5A	CA5B	CA6	CA7	CA9	SLC12A3
+trifluoperazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=336	ATXN2	CBX1	CYP1A2	CYP2C19	CYP2D6	CYP3A4	DRD1	EBP	EBPL	EHMT2	GLP1R	HTR2A	HTR2C	KCNH2	MAPK1	PTGER2	RAD52	RGS4	SMAD3	STK33	TDP1	THPO	TP53	USP1
+triflupromazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=337	CYP1A2	CYP2D6	DRD1	DRD2	TP53
+trihexyphenidyl	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=338	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP2D6	SIGMAR1
+trimethadione	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=339	CACNA1G	CACNA1H	CACNA1I
+trimethoprim	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=340	CBX1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DHFR
+trioxsalen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=341	ADORA2A	CYP1A2	CYP3A4	HTR2C	MAOA
+troglitazone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=342	ADORA3	ALOX15B	CA2	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	ESR1	HSPB1	HTR2B	MAOA	MAOB	MAPK1	NFE2L2	PPARG	TBXAS1	TDP1	TP53	UGT1A10	UGT1A6
+tropicamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=343	ABCB1	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP19A1	CYP2C19	CYP2C9
+Delavirdine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=344	ABCB1	ABCC1	ABCC2	ABCC3	ABCG2
+venlafaxine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=345	SLC6A2	SLC6A3	SLC6A4
+zafirlukast	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=346	ADORA3	AHR	AR	BAZ2B	BCL2L1	CACNA1B	CACNA1H	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYSLTR1	EGFR	EIF4H	GFER	GMNN	KAT2A	KCNQ1	MAPK1	MAPK14	MAPK3	NFE2L2	NOD1	NR3C1	NRP2	POLB	PPARG	PPP1CA	SAE1	SLC22A2	SLC47A1	SLC47A2	TBXAS1	UBA2	UBE2I	USP1	VDR
+zaleplon	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=347	GABRA1	GABRA2	GABRB1	GABRB2	GABRB3	GABRG2
+zolpidem	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=348	AR	GABRA1	GABRA2	GABRA3	GABRB2	GABRB3	GABRG2	HSD17B10	NR3C1
+zonisamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=349	APAF1	AQP4	CA1	CA12	CA13	CA14	CA2	CA4	CA5A	CA5B	CA6	CA7	CA9	MAOB	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+Guanidine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=350	KCNA1	KCNA10	KCNA2	KCNA3	KCNA5	KCNA6	KCNA7	KCNB1	KCNB2	KCNC1	KCNC2	KCNC3	KCNC4	KCND1	KCND2	KCND3	KCNF1	KCNG1	KCNG2	KCNG3	KCNG4	KCNH1	KCNH2	KCNH5	KCNH8	KCNQ1	KCNQ2	KCNQ3	KCNQ4	KCNQ5	KCNS1	KCNS2	KCNS3	KCNV1	KCNV2
+dexamethasone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=351	AR	CFTR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	NFE2L2	NR3C1	NR3C2	PGR	RELA
+Cortell	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=352	CFTR	NFE2L2	NR3C1
+CORTISONE ACETATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=353	AR	NR3C1
+mitomycin C	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=354	AR	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	ESR1	IDO1	NR1H4	NR3C1	PPARD	PPARG	STK33	TDP1	TP53
+Chlorbycyclen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=355	OPRM1
+hydrocortisone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=356	AR	CFTR	ESR1	HIF1A	HSD17B10	IL1B	NFE2L2	NFKB1	NR3C1	SHBG
+prednisolone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=357	AR	CFTR	IL1B	ITGA4	NFE2L2	NR3C1	NR3C2
+estradiol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=358	AOX1	AR	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EHMT2	ESR1	ESR2	ESRRA	ESRRB	GPBAR1	GPER1	NR1H4	NR3C1	PPARG	RECQL	RORC	SHBG	SLC6A3	SLC6A4	STK33	TDP1	TP53
+reserpine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=359	ABCB1	ABCG2	AHR	AR	ATAD5	BAZ2B	CBX1	CYP19A1	EHMT2	ESR1	GLS	GMNN	KCNH2	KDM4A	KPNB1	MAPT	MPHOSPH8	NR1I2	NR3C1	OPRM1	RAN	SLC18A2	SNUPN	TDP1	THPO
+phentolamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=360	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CYP2C19	CYP2D6	ESR2	HTR1A	HTR1E	HTR2A	HTR2B	HTR2C	KCNH2	NISCH
+floxuridine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=361	APP	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	IDH1	JAK2	KLF5	MMP14	NCOA1	NCOA3	NFE2L2	NFKB1	RELA	TDP1	TP53	TYMS
+PROCAINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=362	RAD52	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+epinephrine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=363	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ADRB1	ADRB2	ADRB3	APEX1	CA1	CA14	CA4	CYP1A2	DRD1	FEN1	GAPDH	HIF1A	HSD17B10	KDM4E	MAPT	MTOR	NFE2L2	POLK	RECQL	TDP1	VDR
+L-thyroxine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=364	ABCB1	AHR	ATG4B	NFE2L2	NR1H4	NR3C1	PIP4K2A	PLA2G7	PPARG	PPP1CA	THRB
+Neostigmine methyl sulfate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=365	ACHE	BCHE	NFE2L2
+dextroamphetamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=366	MAOA	SLC18A2	SLC6A2	SLC6A3	SLC6A4	TAAR1
+carbachol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=367	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	MRGPRX1	P2RY2	PLCG1	TRHR
+Norethisterone acetate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=368	AR	CYP19A1	CYP2C19	ESR1	NR3C1	PGR	TDP1
+spironolactone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=369	AR	CYP19A1	CYP2C19	ESR1	ESR2	IL1B	MDM2	MDM4	NR1H4	NR1I2	NR3C1	NR3C2	PGR	PPARD	PPARG	SLC47A1	TDP1	THRB	TP53
+prednisolone acetate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=370	AR	CFTR	ESR1	NFE2L2	NR3C1
+prednisone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=371	AR	CYP1A2	CYP2C9	CYP2D6	CYP3A4	ESR1	HSD17B10	NR3C1
+estrone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=372	AR	ESR1	ESR2	HSD17B1	HTR2B	NR1I2	NR3C1	SHBG	SLC6A4	TARDBP
+fluprednisolone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=373	AR	NR3C1
+Depo-medrol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=374	AR	CFTR	ESR1	NFE2L2	NR3C1
+OXANDROLONE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=375	AR
+METHANTHELINE BROMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=376	CHRM1	CHRM4	CHRM5	HRH2	TP53
+PROMAZINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=377	AR	CFTR	CHRM4	CHRM5	DRD1	DRD2	DRD3	DRD4	EHMT2	GFER	HTR2A	KCNH2	NR3C1	TDP1
+penicillin g	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=378	DRD2
+idoxuridine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=379	NR0B1	NR5A1	TDP1
+Pilocarpine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=380	CHRM1	CHRM3	CHRM5	KDM4E	MAP4K2
+pilocarpine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=381	CHRM3	CYP2C19	CYP2C9	CYP3A4	MAPT	RGS4
+liothyronine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=382	ADORA1	AHR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	ESR1	ESRRG	HNF4A	NPY1R	NR3C1	NR4A2	NR5A1	NR5A2	PCNA	PPARG	RARA	RARB	RORA	RORC	THRA	THRB	TP53
+Isoflurophate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=383	ACHE	CTSA
+Deoxycorticosterone acetate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=384	AR	CHRM4	ESR1	NR3C1	NR3C2
+quinidine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=385	AHR	BCHE	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	ESR1	KCNA5	KCNH2	NR1I2	SCN5A	SLC47A1	TDP1
+chloramphenicol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=386	ALDH1A1	TDP1
+DEMECARIUM BROMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=387	ACHE
+ethinyl estradiol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=388	ADORA2A	ADORA3	AOX1	AR	CASP1	CXCL8	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	ESR1	ESR2	GMNN	HSPB1	IDH1	KCNQ1	NLRP1	NLRP3	NR1H4	NR1I2	NR1I3	NR3C1	OPRK1	OPRM1	PPARD	RORC	SHBG	SLC22A2	SLC47A1	SLC47A2	SLC6A2	SLC6A3	SLC6A4	TDP1	TP53	UGT1A1
+progesterone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=389	ABCB1	ADAM10	AKR1C4	ALDH1A1	AR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	ESR1	ESRRG	GPBAR1	HNF4A	HNF4G	KCNJ1	MAPK1	NFE2L2	NR1H2	NR1H4	NR2F1	NR3C1	NR3C2	NR4A2	NR5A1	NR5A2	PGR	RARA	RARB	RARG	RORA	RORC	RXRA	SHBG	SIGMAR1	TARDBP	TDP1
+testosterone propionate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=390	AR	ESR1	IL1B	KCNK3	NR3C1	TARDBP	TSHR
+tubocurarine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=391	PLCG1	SLC47A1
+apomorphine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=392	AHR	AR	CYP1A2	CYP2D6	DRD1	DRD2	DRD3	DRD4	EHMT2	HSD17B10	HTR1A	HTR2A	HTR2B	HTR2C	MAPT	NFE2L2	SLC22A1	STK33	TDP1	TP53	VDR
+methyltestosterone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=393	AR	ESR1	NR3C1	RORC	SHBG	TP53
+testosterone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=394	AKR1C4	AR	CYP19A1	CYP1A2	CYP2C19	CYP2D6	CYP3A4	ESR1	GPBAR1	NFE2L2	NR3C1	RORC	RXRA	SHBG	TDP1
+TETRABENAZINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=395	DRD2	SLC18A2
+cephalothin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=396	CTDSP1	DNMT1	EHMT2	ESR1	HSPB1	KDM4A	PAFAH2	POLH	POLI	POLK	WRN
+folic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=397	APEX1	ESR1	FOLR1	FOLR2	HSD17B10	NR0B1
+phenylephrine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=398	DRD1
+levodopa	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=399	APEX1	AR	BLM	CA1	CA12	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CBX1	DRD1	DRD3	EGFR	EHMT2	FEN1	FYN	HSD17B10	IL1B	KDM4A	KDM4E	LCK	MBD2	MPHOSPH8	POLH	POLI	POLK	PSIP1	RECQL	SIRT5	TRA	UHRF1	WRN
+ACETYLCHOLINE CHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=400	CHRM1	CHRM3	CHRM4	CHRM5	DRD1	DRD2	MCOLN3	MRGPRX1	NPY1R	NPY2R	SLC5A7	TNNC1	TNNI3	TNNT2	TRHR
+Bretylium tosylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=401	SLC6A2
+DIPHEMANIL METHYLSULFATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=402	CHRM1	CHRM3	CHRM4	CHRM5
+colchicine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=403	AR	ATAD5	BARD1	BRCA1	CREBBP	CXCL8	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	ESR1	GMNN	KLF5	MDM2	MDM4	NFE2L2	NR0B1	NR1H4	PAX8	RORC	STK33	TDP1	TUBA1A	TUBA1B	TUBA1C	TUBA3C	TUBA3E	TUBA4A	TUBB	TUBB1	TUBB2A	TUBB2B	TUBB3	TUBB4A	TUBB4B	TUBB6	TUBB8	VDR
+GALLAMINE TRIETHIODIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=404	CHRM2	CHRNA1	CHRNB1	CHRND	CHRNE	CHRNG	GNAI1	RGS12
+URACIL MUSTARD	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=405	TP53	VDR
+THIAMINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=406	ABCB1	DRD2
+FLUOCINOLONE ACETONIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=407	AR	CFTR	IL1B	NR3C1	TLR3
+Kenacourt	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=408	AR	NR3C1
+norethindrone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=409	AR	ESR1	NFE2L2	NR3C1	PGR	SHBG	SLC6A4
+norethynodrel	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=410	AR	CASP1	ESR1	NLRP1	NR3C1	PGR	TDP1
+D-cycloserine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=411	EHMT2	HIF1A
+Chlorpromazine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=412	APAF1	AR	ATXN2	BAZ2B	CHRM1	CHRM4	CHRM5	CYP1A2	CYP2C19	DRD1	DRD2	DRD3	DRD4	EHMT2	GFER	HTR1E	HTR2A	IDH1	KCNH2	KDM4A	MAP4K2	MDM2	MDM4	MLLT3	MPHOSPH8	NR1H4	NR1I2	PPARD	PPARG	PTBP1	RAD52	TP53
+Caffeine citrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=413	ADORA1	ADORA2A	ADORA2B	ADORA3
+ampicillin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=414	APEX1	APOBEC3G	GLS	MBD2	POLH	POLI	POLK	PSIP1	RECQL	TEK	UHRF1
+cytarabine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=415	AR	BARD1	BRCA1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EHMT2	JAK2	MDM2	MDM4	NCOA3	POLA1	POLD1	POLE	TDP1	TP53
+Trifluridine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=416	APP	BARD1	BRCA1	DRD3	JAK2	MAP1LC3A	MDM2	MDM4	NCOA1	NCOA3	NFKB1	RELA	TDP1	TP53
+Medroxyprogesterone acetate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=417	AKR1C1	AKR1C2	AKR1C3	ALDH1A1	AR	CFTR	CYP2C19	CYP3A4	ERG	ESR1	ESR2	NFE2L2	NPSR1	NR3C1	NR3C2	PARK2	PGR	RORC	SHBG	TDP1
+Isopropamide Iodide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=418	APOBEC3A	CHRM1	CHRM3	CHRM4	CHRM5	CTDSP1	EIF4H	ERAP1	KDM4A	TDP1
+QUINETHAZONE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=419	CA1	CA2	PRKACB	PRKAR2B	SLC12A3
+Lidocaine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=420	VCP
+L-arginine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=421	CYP1A2	NOS2
+TRIAMCINOLONE ACETONIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=422	ABCC1	AR	CFTR	CHRM4	ESR1	HSPB1	NFE2L2	NR3C1
+fluoxymesterone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=423	AR	ESR1	KCNK3	NR3C1
+MEPENZOLATE BROMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=424	CACNA1H	CHRM1	CHRM3	CHRM4	CHRM5	NR3C1	RGS4
+METHSUXIMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=425	CACNA1G	CACNA1H	CACNA1I
+CYCLIZINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=426	ADRA1D	ADRA2A	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP2D6	DRD3	HRH1	HTR2A	HTR2B	HTR2C	SLC6A3
+methylprednisolone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=427	ABCB1	AR	CFTR	NFE2L2	NR3C1
+Acetrizoic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=428	DRD3
+BROMPHENIRAMINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=429	KCNH2
+ISOSORBIDE DINITRATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=430	GUCY1A2	GUCY1A3	GUCY1B2	GUCY1B3
+PSEUDOEPHEDRINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=431	ALOX15	ALOX15B	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	GLA	GNAI1	HSD17B10	PKM	RGS12	THPO
+PYRIDOSTIGMINE BROMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=432	ACHE	AR	BCHE	DNMT1	ESR1	NR3C1
+Monobenzone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=433	AR	ATAD5	CYP1A2	ESR1	NFE2L2	PPARG	PTGS1	PTGS2	SLC6A2	TDP1	TP53	TYR
+Benzonatate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=434	AR
+ERGOTAMINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=435	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ADRB1	ADRB2	CYP3A4	DRD1	DRD2	DRD3	FYN	HTR1B	HTR1D	HTR1E	HTR1F	HTR2A	HTR2B	HTR2C	HTR5A	HTR6	LCK	TBXAS1
+methylergonovine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=436	ADRA2A	ADRA2B	ALDH1A1	CYP2D6	DRD1	DRD2	DRD3	EHMT2	HTR1E	HTR1F	HTR2A	HTR2B	HTR2C	HTR6	RECQL	RGS4	VDR
+Imipramine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=437	APEX1	CHRM1	CHRM4	CHRM5	DRD1	DRD2	KCNH2	NR1H4	PPARG	RXRA	SLC6A2	SLC6A4
+PARAMETHADIONE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=438	CACNA1G	CACNA1H	CACNA1I
+Ambenonium chloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=439	ACHE
+Edrophonium chloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=440	ABCB1	ACHE	ADRBK1	CHRM1
+DESERPIDINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=441	AHR	AR	CYP19A1	ESR1	NR3C1	SLC18A2	TDP1	VDR
+Phenyl 4-aminosalicylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=442	ATAD5	CYP3A4	ESR1
+Palison	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=443	ADRB2
+D-Thyroxine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=444	CYP1A2	CYP2C9	THRA	THRB
+DIPHENHYDRAMINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=445	CHRM4	CHRM5	EIF4H	ESR1	HRH1	KCNH2	MAPK1	NPY1R	NPY2R
+QUINESTROL	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=446	AR	ATXN2	CFTR	ESR1	ESR2	GMNN	IDH1	ITGA4	NR3C1	PAFAH2	TDP1
+dydrogesterone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=447	AR	NFE2L2	NR3C1	PGR	TDP1
+Tripelennamine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=448	ABCB6	DRD1	HRH1	KDM4E	PADI4
+Cysteamine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=449	CASP1	DRD3	EHMT2	MAPT	NLRP1	PRMT1	VDR
+ETHYNODIOL DIACETATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=450	AR	CYP19A1	ESR1	MAOA	NFE2L2	NR3C1	PGR	TDP1	TP53
+PROPANTHELINE BROMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=451	ABCB1	APEX1	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	NFE2L2	PPARG	RGS4
+HYDRALAZINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=452	ABCB1	AHR	ATAD5	CYP3A4	ESR1	GAPDH	HSPB1	KDM4E	NFE2L2	NR1H4	PPARD	SMN2	TP53	VDR
+Pargyline hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=453	ABCB1	DRD2	MAOA	MAOB
+Depoestradiol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=454	AR	CYP19A1	DRD3	ESR1	NR3C1
+testosterone enanthate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=455	AR
+aminophylline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=456	ADORA1	ADORA2A	ADORA2B	ADORA3	PDE3A	PDE3B	PDE4A	PDE4B	PDE4C	PDE4D
+Mylaxen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=457	ACHE
+5-azacytidine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=458	ALDH1A1	AR	ATAD5	BARD1	BRCA1	CYP19A1	DNMT1	DNMT3A	GAPDH	GMNN	HBB	HTT	IDH1	MDM2	MDM4	MITF	NCOA1	NCOA3	NFE2L2	NR1H4	NR3C1	NR5A1	NR5A2	PRNP	RORC	SMAD3	TDP1	THPO	TP53
+Novafed	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=459	SLC6A2
+fluocinonide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=460	AR	DRD1	NR3C1	WEE1
+galanthamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=461	ACHE	AHR	BCHE
+NANDROLONE DECANOATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=462	AR	ESR1	NR3C1
+methysergide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=463	ADRA2A	ADRA2B	AHR	ALDH1A1	DRD1	DRD2	DRD3	EHMT2	HTR1B	HTR1D	HTR1E	HTR1F	HTR2A	HTR2B	HTR2C	HTR5A	HTR6	HTR7	MYC	RECQL	RGS4	VDR
+betamethasone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=464	AHR	AR	CFTR	GALR3	IL1B	NFE2L2	NR3C1
+Ergotamine D-tartrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=465	AHR	AR	ESR1	PPARG	TDP1
+fluorometholone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=466	AR	CFTR	DNMT1	DRD1	IL1B	NR3C1
+Clopoxide chloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=467	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+chenodeoxycholic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=468	ABCB11	AR	GPBAR1	NR1H4	NR1I2	PLA2G1B	TARDBP
+dihydroergotamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=469	ADRA1D	ADRA2A	ADRA2B	ADRA2C	AR	CYP3A4	DRD1	DRD2	DRD3	HTR1B	HTR1D	HTR1E	HTR1F	HTR2A	HTR2B	HTR2C	HTR6	HTR7	MAPT	SLC22A2	SLC47A1	SLC47A2
+Ecothiophate iodide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=470	ACHE
+podophyllotoxin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=471	AHR	APP	AR	ATAD5	BARD1	BRCA1	CFTR	CHRM4	CYP2C19	CYP2C9	CYP3A4	ESR1	GMNN	HTR1E	JAK2	KLF5	MDM2	MDM4	MITF	NFKB1	NR0B1	NR1H4	NR3C1	NR5A1	PAX8	RELA	RORA	STAT3	STK33	TDP1	TLR3	TUBA1A	TUBA1B	TUBA1C	TUBA3C	TUBA3E	TUBA4A	TUBB	TUBB1	TUBB2A	TUBB2B	TUBB3	TUBB4A	TUBB4B	TUBB6	TUBB8	VDR
+medroxyprogesterone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=472	AR	CFTR	CHRM4	NR3C1	TDP1
+METHAMPHETAMINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=473	TAAR1
+L-carnitine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=474	SENP8
+DECAMETHONIUM BROMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=475	CHRNA1	CHRNB1	CHRND	CHRNE	CHRNG
+Crystal violet	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=476	ACHE	ADORA2A	ADORA3	ADRA1D	ADRA2A	ADRA2B	ADRA2C	AHR	APP	AR	BLM	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP19A1	CYP2D6	CYP3A4	DRD1	DRD2	DRD3	EGFR	ESR1	FYN	GAPDH	GBA	HRH2	HSPB1	HTR2A	KCNH2	MAPK1	MAPT	NFE2L2	NR1H4	OPRK1	OPRM1	PPARG	RECQL	RORC	SLC6A3	SNCA	TACR2	TDP1	THRB	USP1	USP2	VDR
+Amitriptyline hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=477	ALDH1A1	AR	CHRM1	CHRM4	CHRM5	DRD1	DRD2	ESR1	GNAS	KCNH2	SLC6A2	SLC6A4	TDP1	TLR3	TP53
+NAPHAZOLINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=478	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	HTR1E	TAAR1
+LITHIUM CARBONATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=479	GSK3A	GSK3B	IMPA1
+chlorotrianisene	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=480	AR	CYP19A1	ESR1	ESR2	NPSR1	NR1H4	NR3C1	RORC
+MEGESTROL ACETATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=481	AR	CYP2C9	NFE2L2	NPSR1	NR3C1	PGR	TDP1
+erythromycin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=482	ABCB1	ACP1	ALB	CFTR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DNMT1	ESR1	F2RL1	KCNH2	MLNR	PLK1
+Levonorgestrel	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=483	AR	ESR1	HSPA5	NR3C1	PGR	SHBG
+MECAMYLAMINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=484	CHRNA3	CHRNB4
+ethylestrenol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=485	ACHE	AR	CHRM2	CYP2C19	ESR1	GMNN	NR1H4	NR3C1	SLC6A2	SLC6A4	TDP1	TP53
+testolactone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=486	AR	CYP19A1	ESR1
+cyproheptadine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=487	ABCB1	CACNA1H	CHRM1	CHRM4	CHRM5	DRD1	DRD2	DRD3	HRH1	HTR1E	KCNH2	WEE1
+estradiol valerate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=488	ADRB2	AR	ESR1	IDH1	KCNE1	KCNQ1	NR3C1
+FENTANYL CITRATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=489	OPRM1
+Metformin hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=490	AR	MTOR	ND1	ND2	ND3	ND4	ND4L	ND6	NDUFA1	NDUFA10	NDUFA11	NDUFA12	NDUFA2	NDUFA3	NDUFA4	NDUFA4L2	NDUFA5	NDUFA6	NDUFA7	NDUFA8	NDUFA9	NDUFAB1	NDUFAF1	NDUFAF3	NDUFAF4	NDUFB1	NDUFB10	NDUFB2	NDUFB3	NDUFB4	NDUFB5	NDUFB6	NDUFB7	NDUFB8	NDUFB9	NDUFC1	NDUFC2	NDUFS1	NDUFS2	NDUFS3	NDUFS4	NDUFS5	NDUFS6	NDUFS7	NDUFS8	NDUFV1	NDUFV2	NDUFV3	NR3C1	PRKAA2
+METHDILAZINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=491	HRH1	KCNH2
+VANCOMYCIN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=492	ALB
+flurandrenolide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=493	ABCC1	ADRBK1	AR	CFTR	NR3C1	S1PR4	STAT1
+Darvon	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=494	DRD3	OPRM1	TDP1
+Dronabinol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=495	AHR	CNR1	CNR2	CYP19A1	GPR18	GPR55	TDP1
+Methylenediphosphonic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=496	BAZ2B	EHMT2	KDM4E	PPP1CA	PTBP1
+AMILORIDE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=497	AHR	NAE1	NFE2L2	PLK1	PRKD1	PTBP1	SLC5A7	TDP1	UBE2M
+AMILORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=498	ADORA2A	CYP1A2	EHMT2	HSD17B10	MAOA	SLC5A7	TP53
+pimozide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=499	ABCB1	ADRB2	APAF1	AR	ATAD5	ATXN2	CACNA1H	CBX1	CHRM1	CYP19A1	CYP1A2	CYP2C19	CYP2D6	CYP3A4	DRD1	DRD2	DRD3	DRD4	DRD5	HIF1A	HTR1A	HTR2A	IDH1	IL1B	KCNH2	KDM4A	MAP4K2	MAPK1	MDM2	MDM4	MMP14	MPHOSPH8	MTOR	NPSR1	NTSR1	OPRD1	OPRM1	PIP4K2A	PPARD	PPARG	RXRA	SLC22A2	STK33	TDP1	THPO	TP53	XBP1
+BETAMETHASONE VALERATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=500	AR	NR3C1
+Cortisol succinate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=501	ADAM17	CFTR	ITGA4	NFE2L2	NR3C1	STAT1
+fluorescein	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=502	BLM	DRD3	ESR1	GNAI1	POLK	PPARG	RGS12
+DEXAMETHASONE SODIUM PHOSPHATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=503	AR	ESR1	NR3C1
+Methyldopa ethyl hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=504	ADRA2A	ADRA2B	ADRA2C
+Carphenazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=505	GMNN
+stavudine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=506	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	MRGPRX1	NR2F2
+MIDODRINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=507	ABCB1	ADRA1A	ADRA1B	ADRA1D
+ciclacillin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=508	SLC15A2
+tranylcypromine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=509	CYP1A2	CYP2B6	CYP2C19	KDM1A	MAOA	MAOB
+PIPERACETAZINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=510	CYP1A2	CYP2D6	DRD1	DRD2	GFER	MAPT	MCL1	SLC5A7	TDP1
+CLONIDINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=511	ABCB1	ADRA2A	ADRA2B	ADRA2C	DRD1
+Cladribine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=512	APP	DCK	DRD3	ESR1	GALR3	JAK2	MDM2	MDM4	NFE2L2	NR5A1	RORA	TDP1	TP53	YES1
+beclomethasone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=513	AR	CFTR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	HIF1A	IL1B	NFE2L2	NR3C1
+BECLOMETHASONE DIPROPIONATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=514	ADAM10	AHR	AR	CFTR	CYP19A1	IL1B	NFE2L2	NR3C1	TDP1
+Vidarabine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=515	DPP4	GMNN	TDP1
+BETAMETHASONE DIPROPIONATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=516	AR	CYP19A1	ESR1	NR3C1	TDP1
+Succinylcholine chloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=517	CHRNA1	CHRNB1	CHRND	CHRNE	CHRNG
+Cyclobenzaprine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=518	ABCB1	APEX1	CHRM1	CHRM4	CHRM5	DRD1	DRD2	DRD3	EHMT2	HTR2A	HTR2C	KCNH2	TDP1
+Metoclopramide hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=519	DRD2	DRD3	ESR2
+MOLINDONE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=520	DRD1	EHMT2	HTR2A	HTR7
+zalcitabine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=521	DRD2	MAPK1	TDP1
+ACRISORCIN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=522	CYP3A4	HSD17B10	POLK	TDP1
+Metubine iodide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=523	CHRNA1	CHRNB1	CHRND	CHRNE	CHRNG
+Ethylene glycol monododecyl ether	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=524	HSPB1
+stanozolol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=525	ADORA3	AR	CYP2C19	CYP2C9	CYP2D6	ESR1	NFE2L2
+Hydrocortisone 17-butyrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=526	AR	CFTR	ESR1	NFE2L2	NR3C1
+selegiline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=527	ADRA2A	ADRA2B	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	MAOA	MAOB
+Selegiline hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=528	MAOB	POLI
+clemastine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=529	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CHRM3	CHRM4	CHRM5	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DRD1	DRD2	DRD3	HRH1	HRH2	HTR2A	HTR2B	HTR2C	HTR6	KCNH2	SIGMAR1	SLC22A1	SLC6A2	SLC6A3	TDP1	THPO	TP53
+PANCURONIUM BROMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=530	CHRNA1	CHRNB1	CHRND	CHRNE	CHRNG
+CROMOLYN SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=531	AR	GPR35
+ISOSORBIDE MONONITRATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=532	GUCY1A2	GUCY1A3	GUCY1B2	GUCY1B3
+Levamisole hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=533	ABCB1	ALPL	ESR1
+danazol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=534	ABCB1	ADORA3	ADRA2A	ADRA2B	ADRA2C	ADRB3	AR	CACNA1H	CHRM3	CYP19A1	CYP1A2	CYP2C9	CYP2D6	CYP3A4	DRD1	DRD3	ESR1	HSPB1	HTR2A	MYC	NR3C1	OPRK1	OPRM1	PGR	SHBG	SLC6A2	SLC6A3	SLC6A4	TAAR1	TACR2
+deslanoside	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=535	AR	ATP1A1	ATP1A2	ATP1A3	ATP1A4	ATP1B1	ATP1B2	ATP1B3	FXYD2	TDP1
+daunorubicin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=536	APEX1	AR	ATAD5	BLM	CBFB	CYP19A1	CYP1A2	EHMT2	ESR1	GNAI1	HDAC6	HTT	KDM4E	MAPT	NR1H4	NR3C1	POLK	PPARD	PPARG	RECQL	RGS12	RUNX1	STK33	TDP1	THRB	TOP1	TOP2A	TP53	USP1	VDR
+fludarabine phosphate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=537	POLA1	POLD1	POLE	RRM1	RRM2	RRM2B
+BROMOCRIPTINE MESYLATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=538	ABCB1	AR	CYP19A1	DRD2	DRD3	DRD4	EHMT2	ESR1	NFE2L2	NPSR1	NR1H4	PPARG
+bromocriptine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=539	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ADRB1	AR	CYP3A4	DRD1	DRD2	DRD3	EHMT2	ESR1	HTR1A	HTR1B	HTR1D	HTR2A	HTR2B	HTR2C	HTR6	NR3C1	STK33	TDP1	VDR
+triamcinolone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=540	ABCC1	AR	CFTR	CHRM1	CHRM5	CTSL	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	ESR1	NFE2L2	NFKB1	NR3C1
+fludrocortisone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=541	AR	ESR1	NR3C1	TDP1
+ursodiol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=542	GPBAR1	NR1H4	NR3C1	WEE1
+Metipranolol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=543	AR	ESR1	NR3C1
+Halazepam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=544	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+doxorubicin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=545	ABCC3	BCL2	BCL2L1	CASP1	CHRM1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	DHCR7	EBP	ERBB2	FYN	LCK	POLK	SLCO1B3	STK33	TOP1	TOP2A	TOP2B
+CLOBETASOL PROPIONATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=546	AHR	AR	CFTR	NPSR1	NR3C1	WEE1
+cefazolin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=548	NFE2L2
+amoxicillin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=549	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	POLH	POLK	PSIP1
+timolol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=550	ADRB1	ADRB2	ADRB3	CYP2D6
+OXCARBAZEPINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=551	EIF4H	GAPDH	MRGPRX1	PABPC1	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A	VDR
+carbidopa	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=552	ALDH1A1	CFTR	EHMT2	HPGD	HSD17B10	KDM4A	KDM4E	MAPT	SENP8	TDP1
+MORICIZINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=553	CYP3A4
+zidovudine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=554	APAF1	CXCR4	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DTYMK	ESR1	TDP1	TK1
+Mecillinam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=555	AR	AVPR1A	NR3C1
+paclitaxel	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=556	ABCB1	AR	BARD1	BRCA1	CCKAR	ERBB2	FYN	GMNN	ITGAV	ITGB3	MC5R	MDM2	MDM4	NR1I2	OPRD1	PRNP	STK33	TACR2	TDP1	TP53	TUBA1A	TUBA1B	TUBA1C	TUBA3C	TUBA3E	TUBA4A	TUBB	TUBB1	TUBB2A	TUBB2B	TUBB3	TUBB4A	TUBB4B	TUBB6	TUBB8
+Etomidate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=557	CFTR	CYP11B1	CYP11B2	CYP1A2	CYP2C19	CYP3A4	DRD2	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	GPR183
+Buspirone hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=558	ABCB1	ALDH1A1	DRD2	DRD3	HTR1A	KCNH2	PRKACB	PRKAR2B
+etoposide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=559	ATM	BARD1	BRCA1	CASP3	CHEK1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	GLP1R	GMNN	MAPK1	MAPK3	MDM2	MDM4	NCOA1	NCOA3	NR5A1	NR5A2	STK33	TDP1	TOP2A	TOP2B
+dobutamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=560	ADRA1D	ADRA2B	ADRB1	ADRB2	CA1	CA12	CA13	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA7	CA9	DRD1	DRD3	EGFR	FYN	LCK	SIGMAR1	SLC6A2	SLC6A3	SLC6A4	TDP1
+Flurazepam monohydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=561	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+HALOFANTRINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=562	APAF1	CYP2D6	HSP90AA1	IDH1	MDM2	MDM4	PPP1CA	TDP1	UBE2N
+Halofantrine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=563	HSP90AA1	IDH1	KCNH2
+ribavirin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=564	ALDH1A1	CXCL8	ESR1	IMPDH1	RORC	TDP1	TP53
+amikacin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=565	ESR1
+(-)-Terbuclomine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=566	TDP1
+methyldopa	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=567	ABCB1	ADRA2A	ADRA2B	ADRA2C	ALDH1A1	ALPL	APEX1	BAZ2B	BLM	CASP6	CBX1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EGFR	EHMT2	ESR2	FEN1	FYN	GAPDH	GMNN	HSD17B10	KDM4A	KDM4E	MPHOSPH8	MPI	PIP4K2A	POLB	POLI	POLK	PSIP1	RECQL	RGS4	SAE1	SIAE	TDP1	TRA	UBA2	UBE2I	UHRF1
+tocainide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=568	NLRP3
+nadolol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=569	ABCB1	ADRB1	ADRB2	ARRB1	CDC25B	NPY1R	NPY2R	PAFAH1B3	PTBP1
+diltiazem	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=570	ABCB1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	KCNH2	SLC22A1	TDP1
+LEVOBUNOLOL	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=571	ADRB1	ADRB2	ADRB3	SIGMAR1	SLC6A4
+VECURONIUM BROMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=572	CHRNA1	CHRNB1	CHRND	CHRNE	CHRNG	ESR1	SLC22A2	SLC47A1	SLC47A2	SLC5A7
+Salbutamol sulfate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=573	PTGER2
+(S)-(+)-Ibuprofen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=574	AKR1C2	AKR1C3	CXCR1	CXCR2	PTGS1	PTGS2	TARDBP
+budesonide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=575	ABCB1	AHR	AR	CFTR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	IL1B	MAP3K3	MMP9	NFE2L2	NR3C1	STAT1	STAT3	TLR3	TRHR
+Permethrin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=576	ATM	GMNN
+CIS-PERMETHRIN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=577	CES1
+PIRFENIDONE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=578	CYP1A2	HSD17B10
+DESOGESTREL	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=579	AR	ESR1	GMNN	PGR	SHBG
+NITAZOXANIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=580	AHR	AR	ATAD5	CYP19A1	CYP3A4	DRD1	DRD2	ESR1	HCRTR1	HSPB1	KCNQ1	MAPT	MCOLN3	NFE2L2	NPC1	NPSR1	OXTR	PADI4	PKM	SLC12A5	SLC6A3	SMN2	TP53	TSHR	VDR
+acarbose	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=581	AMY1A	AMY2A	ESR1	GAA	JAK2	MGAM
+Torasemide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=582	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	SLC12A1
+DESFLURANE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=583	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	GLRA1	GLRB	KCNK10	KCNK18	KCNK2	KCNK3	KCNK9
+ANAGRELIDE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=584	PDE3A	PDE3B
+IDARUBICIN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=585	APEX1	ATAD5	ATXN2	BLM	CBX1	DRD1	EHMT2	FEN1	GNAI1	HSP90AA1	HTT	KCNH2	MAPT	MPHOSPH8	MTOR	POLB	POLH	POLI	POLK	RECQL	RGS12	THRB	USP1	YWHAG
+MIDAZOLAM HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=586	AR	ATAD5	ESR1	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	MDM2	MDM4	NR1H4	NR3C1
+CEFONICID SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=587	AR	ESR1
+paroxetine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=588	AR	ATXN2	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP2D6	EHMT2	KCNH2	MTOR	P2RX4	SIGMAR1	SLC6A2	SLC6A3	SLC6A4	TACR1	TDP1
+captopril	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=589	ACE	DRD2	EHMT2	LTA4H	MMP12	PSIP1	PTGS1	PTGS2	REN
+FOSCARNET SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=590	ESR1
+Atracurium besylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=591	AR	CHRNA1	CHRNB1	CHRND	CHRNE	CHRNG	NR3C1
+ketoconazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=592	ADRA2A	ADRA2B	BAZ2B	CBX1	CHRM2	CYP11B1	CYP11B2	CYP17A1	CYP19A1	CYP1A2	CYP24A1	CYP2C19	CYP2C9	CYP2D6	CYP3A4	CYP51A1	EHMT2	HRH2	HSP90AA1	KCNH2	KDM4A	MPHOSPH8	NFE2L2	NR1H4	OPRD1	SLC6A2	SLC6A3	SLC6A4	SNCA	TACR2	TBXAS1	TDP1	VDR
+pergolide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=593	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CYP2D6	CYP3A4	DRD1	DRD2	DRD3	HTR1A	HTR1B	HTR1D	HTR2A	HTR2B	HTR2C	HTR6	KCNH2
+PERGOLIDE MESYLATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=594	ABCB1	DRD1	DRD2	DRD3	DRD4	DRD5	EIF4H	ERG	HTR5A	KCNH2	PABPC1
+cefadroxil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=595	NFE2L2	SLC15A2
+didanosine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=596	AR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	MBD2	TDP1	UHRF1
+Cimetidine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=597	HRH2
+cefaclor	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=598	ARNT	BAZ2B	CHRM1	CTDSP1	GLS	MAPT	PLK1	PRMT1	SLC15A2	TACC3	VDR
+Mitoxantrone dihydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=599	APEX1	AR	ATAD5	BLM	CYP19A1	EHMT2	ESR1	KAT2A	KDM4E	MAPK1	MAPT	MBNL1	MPHOSPH8	NPSR1	NR1H4	PIM1	POLB	POLH	POLI	POLK	PPARD	PPARG	RECQL	TDP1	TP53	VDR
+Miglustat	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=600	GAA	GANAB	GBA2	UGCG
+p-Aminoclonidine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=601	ADRA2A	ADRA2B	ADRA2C
+HALOPERIDOL DECANOATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=602	DRD2	DRD3	DRD4	HTR2A
+lovastatin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=603	ABCB1	ADORA1	AKT1	AR	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EHMT2	GAPDH	HDAC1	HDAC2	HDAC6	HMGCR	IDH1	ITGAL	MDM2	MDM4	NFE2L2	NR0B1	NR1I2	NR3C1	RORC	SLC6A2	SLC6A3	SMARCA2	SMN2	STK33	TACR2	TDP1	VDR
+LEVOCABASTINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=604	HRH1
+simvastatin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=605	ABCB1	AR	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	ESR1	HMGCR	IDH1	MDM2	MDM4	NFE2L2	NR2E3	NR3C1	PLK1	TARDBP	TDP1
+pravastatin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=606	HMGCR	SLCO1B1
+cabergoline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=607	DRD2	DRD3	HTR1A	HTR1B	HTR1D	HTR2A	HTR2B	HTR2C
+Atomoxetine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=608	DRD3	SLC6A2	TDP1
+Atomoxetine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=609	CYP1A2	CYP2D6	KCNH2	SLC6A2	SLC6A3	SLC6A4	TDP1	TSHR
+MOEXIPRIL HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=610	ACE	AHR
+Accupril	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=611	ACE	AHR	GMNN	TDP1
+RALOXIFENE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=612	ABCB1	ALDH1A1	APAF1	AR	BAZ2B	CYP19A1	CYP3A4	DRD3	EHMT2	ESR1	ESR2	GBA	GFER	GMNN	HSD17B10	HSPB1	IDH1	KCNH2	KCNQ1	KDM4A	MAP4K2	MAPT	MDM2	MDM4	MPHOSPH8	NR1H4	NR1I2	NR3C1	P4HB	PIP4K2A	PPARD	PPARG	RXRA	TDP1	TP53	UBE2N
+NEFAZODONE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=613	AR	CYP19A1	DRD1	DRD3	ESR1	HTR2A	HTR2C	NFE2L2	NR3C1	SLC6A2	SLC6A4	TDP1
+mifepristone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=614	ABCB1	ADRA2B	AR	BAZ2B	CBX1	CYP19A1	DRD1	EHMT2	ESR1	ESR2	FYN	GNAS	KDM4A	MCL1	MLLT3	MPHOSPH8	MTOR	NFE2L2	NPSR1	NR1H4	NR3C1	NR3C2	OPRK1	OPRM1	PGR	PPARD	PPARG	PREPL	SIGMAR1	TDP1	TP53
+itraconazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=615	AVPR2	CCR4	CXCR1	CYP3A4	CYP51A1	ESR1	FYN	KDR	NFE2L2	NR1H4
+Fosphenytoin sodium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=616	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+RANOLAZINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=617	CHRM4	ITGA4	SCN4A	SCN5A
+finasteride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=618	AR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	HSD3B1	NFE2L2	NR1H4	SRD5A1	SRD5A2
+IMIQUIMOD	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=619	ADORA2A	ADRA1D	AHR	GMNN	HRH2	TLR7
+Rotigotine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=620	CYP19A1	DRD1	DRD2	DRD3	DRD4
+SUMATRIPTAN SUCCINATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=621	HTR1B	HTR1D	TDP1
+ADAPALENE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=622	CYP19A1	ESR1	HSPB1	NFE2L2	NR1H4	NR3C1	RARA	RARB	RARG	TP53	USP1
+EXEMESTANE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=623	AR	CYP19A1	ESR1	NFE2L2	TDP1
+sparfloxacin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=624	AR	KCNH2
+ZILEUTON	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=625	ALOX5	ALOX5AP	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EPHX2	LTB4R	MMP12	MMP2	PPARG
+clopidogrel	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=626	CYP1A2	CYP2B6	CYP2C19	CYP2C9	CYP2D6	CYP3A4	CYP3A5	P2RY12	SLC6A4
+Cidofovir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=627	ESR1
+Levobetaxolol HCl	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=628	ADRB1
+TOPOTECAN HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=629	AR	BARD1	BCL2L1	BRCA1	CACNA1H	CFTR	CRHBP	CRHR2	CYP19A1	ESR1	HBB	HCRTR1	HIF1A	IDE	IDH1	IL1B	KCNQ1	KEAP1	KLK7	KMT2A	MCL1	MDM2	MDM4	MITF	NCOA3	NFE2L2	NOD2	NR1H4	NR5A1	NR5A2	PAX8	PLK1	PRMT1	PTGER2	RIPK2	TDP1	TLR9	TNNC1	TNNI3	TNNT2	TOP1MT	TP53	TSG101	USP1
+topotecan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=630	AKT1	CYP3A4	HIF1A	SLC47A1	SLC47A2	TOP1
+Bromfenac	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=631	PTGS1	PTGS2
+GEMCITABINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=632	AR	ESR1	POLA1	POLD1	POLE	PPARG	RRM1	RRM2	RRM2B	TDP1	TP53
+gemcitabine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=633	DCK
+ALOSETRON HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=634	ARNT	CASP6	HTR3A	SENP8	SLC5A7	TACC3	USP1
+Valacyclovir hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=635	TDP1
+valacyclovir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=636	DPP4	TDP1
+Aripiprazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=637	ABCB1	APAF1	DRD1	DRD2	DRD3	DRD4	GNA15	HTR1A	HTR1B	HTR1D	HTR2A	HTR2C	HTR6	HTR7	KCNH2	MAP3K3	MAP4K2	MDM2	MDM4	PLA2G7	RGS4	TAAR1	TDP1
+Ultiva	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=638	OPRM1
+ATORVASTATIN CALCIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=639	CYP19A1	ESR1	HMGCR	NFE2L2	NR3C1	PPARG	TDP1
+atorvastatin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=640	AR	CYP19A1	CYP3A4	HDAC1	HDAC2	HDAC6	HMGCR	SLCO1B1	SLCO1B3	SLCO2B1
+lamivudine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=641	ABCC1	ABCC2	ABCC3
+DULOXETINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=642	ADRB2	AHR	AR	GLP1R	SLC6A2	SLC6A4	TDP1
+irinotecan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=643	ACHE	ADRA2C	CHRM4	MMP1	SLC22A1	SLC22A2	SLC47A1	SLC47A2	TDP1	TOP1
+valsartan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=644	AGTR1
+Ibandronic Acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=645	FDPS
+Ziprasidone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=646	ADRA1A	ADRA1B	ADRA1D	AHR	AR	CHRM1	DRD1	DRD2	DRD3	DRD4	EHMT2	HRH1	HTR1A	HTR1B	HTR1D	HTR1E	HTR2A	HTR2C	HTR6	HTR7	KCNH2	NR3C1	SLC6A4	TDP1
+zanamivir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=647	NEU2	NEU3
+zolmitriptan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=648	HTR1A	HTR1B	HTR1D	HTR1E	HTR1F
+Iobenguane	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=649	CYP1A2	CYP2D6	NFE2L2
+ADEFOVIR DIPIVOXIL	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=650	DRD3	EHMT2	NFE2L2
+NARATRIPTAN HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=651	HTR1B	HTR1D
+Emtricitabine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=652	ABCC1	ABCC2	ABCC3	PLCB3	PLCG1
+Saquinavir mesylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=653	ADAM10	AR	ATXN2	CACNA1H	CYP19A1	CYP3A4	KCNH2	NFE2L2	NR1H4	PLCG1	RXRA	TDP1
+tirofiban	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=654	ITGA2B	ITGB3
+CAPECITABINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=655	TYMS
+adenosine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=656	ADK	ADORA1	ADORA2A	ADORA2B	ADORA3	GALR3	MRGPRX1	SLC5A7
+Phenelzine sulfate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=657	ABCB1	AHR	AR	CYP3A4	DRD3	EHMT2	ESR1	GFER	KDM4A	MAOA	MAOB	NFE2L2	TAAR1	TDP1
+Inapetyl	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=658	SLC18A2	SLC6A2
+Rubidomycin hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=659	AHR	APEX1	APP	AR	ATAD5	BAZ2B	BLM	BRCA1	CFTR	CRHBP	CRHR2	CYP19A1	DRD1	DRD3	EHMT2	ERG	ESR1	FEN1	FPR2	GALR2	GAPDH	GNAI1	HSP90AA1	HSP90AB1	HSPA1A	HTR1E	IDE	IDH1	IL1B	INS	JAK2	KMT2A	MAPK1	MAPT	MBD2	MITF	MLLT3	MMP14	NCOA1	NCOA3	NOD1	NR1H4	NR2F2	NR3C1	NR5A1	NR5A2	PAFAH1B2	PAFAH1B3	PAFAH2	PAX8	POLB	POLH	POLI	POLK	PPARD	PPARG	PRMT1	PTBP1	RBBP9	RECQL	RGS12	RORA	RORC	RXRA	S100A4	S1PR4	SIAE	STAT1	STAT3	TDP1	THRB	TLR3	TNFRSF10B	TNFSF10	TNNC1	TNNI3	TNNT2	TP53	TRA	TSG101	UHRF1	USP1	VDR	WRN	YWHAG
+Sildenafil citrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=660	CA1	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA9	PDE5A
+Paroxetine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=661	ADRB2	ATXN2	BARD1	BRCA1	CHRM4	CHRM5	CYP3A4	EHMT2	GLP1R	IDH1	IL1B	KCNH2	MDM2	MDM4	MLLT3	MPHOSPH8	OXTR	SLC6A4	TDP1	THPO	TP53
+Deferoxamine mesylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=662	GMNN	GNAO1	KDM4E	NFE2L2	RGS16	RGS19	RGS4	RGS7	RGS8	TDP1
+Cisatracurium besylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=663	CHRNA1	CHRNB1	CHRND	CHRNE	CHRNG	CYP3A4
+Diltiazem hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=664	ABCB1	CACNA1C	CACNA1D	CACNA1F	CACNA1S	EHMT2	SLC12A5
+Trazodone hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=665	ABCB1	DRD2	DRD3	GFER	HSD17B10	HTR1E	HTR2A	HTR2C	KCNH2	NFE2L2	SLC6A4
+Trovafloxacin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=666	TBXAS1
+Ciprofloxacin hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=667	ABCB1	TDP1
+FEXOFENADINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=668	ALOX15	HRH1
+Sertraline hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=669	ADRB2	AR	ATXN2	CYP3A4	DRD1	IDH1	KCNH2	MAP4K2	OXTR	PPARG	SLC6A4	TAAR1	TDP1	TP53	UBE2N
+efavirenz	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=670	ABCB1	ABCC1	ABCC2	ABCC3	ABCG2	AR	CACNA1H	CYP19A1	ESR1	HSPB1	NFE2L2	NPSR1	NR3C1	TDP1
+Nelfinavir mesylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=671	AR	ATXN2	CYP19A1	CYP3A4	ESR1	HSPB1	NFE2L2	NR3C1	PPARG	PPP1CA	RORC
+Amantadine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=672	EHMT2	GRIN1	GRIN2A	GRIN2B	GRIN2C	GRIN2D	GRIN3A	GRIN3B
+Quinidine sulfate hydrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=673	CYP2D6	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+Fenofibric acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=674	PPARA	PPARD	PPARG
+Plerixafor	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=675	CCR2	CXCR4	KMT2A	MEN1
+amprenavir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=676	CTSD	CYP3A4	TBXAS1
+Andriol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=677	AR
+Dobutamine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=678	ADRB1	ADRB2	DRD3	GFER	HSP90AA1	KCNH2	SLC5A7
+Desipramine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=679	CHRM1	CHRM4	CHRM5	DRD2	DRD3	GLP1R	IL1B	KCNH2	PLCG1	SLC6A2	TDP1
+Mefloquine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=680	APAF1	AR	ATXN2	BARD1	BRCA1	CYP19A1	DRD1	ESR1	GNA15	IDH1	MDM2	MDM4	OPRD1	OPRM1	PPARD	RGS4	TAAR1	TDP1	UBE2N
+PIPECURONIUM BROMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=681	CHRNA1	CHRNB1	CHRND	CHRNE	CHRNG
+TICLOPIDINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=682	ARRB1	KDM4E	MAP3K3	MCL1	P2RY12
+Dopamine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=683	ADRB1	APEX1	CBX1	DLD	DRD1	DRD2	DRD3	DRD4	DRD5	EHMT2	GAA	GFER	KDM4A	KDM4E	MPI	NFE2L2	TDP1
+Epirubicin hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=684	APAF1	ATXN2	BCL2L1	CACNA1H	CFTR	CRHBP	CRHR2	GSTO1	HCRTR1	IDH1	LYPLA1	MAP4K2	MCL1	MDM2	MDM4	MITF	NFE2L2	NR5A2	OXTR	PADI4	PAFAH1B2	PAFAH1B3	PAFAH2	PLA2G7	POLI	PPME1	RAD51	SENP8	SMAD3	SUMO1	TDP1	TNFRSF10B	TNNC1	TNNI3	TNNT2	USP1	WRN
+Chlorphentermine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=685	SLC6A4
+Betamethasone sodium phosphate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=686	AR	NR3C1
+iopamidol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=687	AR	NR3C1
+Sufentanil citrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=688	ABHD5	AR	HNF4A	KDM4A	NFE2L2	NR1H4	OPRD1	OPRM1	PLIN1	PLIN5	TDP1
+Milnacipran	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=689	SLC6A2	SLC6A4
+Repaglinide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=690	ABCC8	AR	DRD3	KCNJ11	NR3C1	SLC22A1
+Telmisartan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=691	AGTR1	EHMT2	GNAS	HSD17B10	NFE2L2	NPSR1	PPARG	SLC12A5	SLC47A1	SLC6A3	USP1
+Trihexyphenidyl hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=692	ABCB1	CHRM1	CHRM4	CHRM5	DRD2	NPY2R
+Trifluoperazine dihydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=693	ABCB1	CYP19A1	KCNH2	MPHOSPH8	TDP1
+procainamide hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=694	CHRM4	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+Isophen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=695	SLC6A2	SLC6A3	SLC6A4
+Oxymetazoline hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=696	ABCB1	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	DRD2	DRD3	HTR1A	HTR1E	HTR5A	KCNH2
+Fluphenazine dihydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=697	ABCB1	KCNH2	TDP1
+Dyclonine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=698	ALDH1A1	AR	DRD1	DRD3	EHMT2	ESR1	GFER	GMNN	HSPB1	MRGPRX1	NFE2L2	NLRP1	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A	TDP1	THRB	VDR
+Trimethobenzamide hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=699	ATAD5	DRD2	DRD3
+Clomipramine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=700	ABCB1	AR	CHRM1	CHRM4	CHRM5	DRD1	DRD2	DRD3	ESR1	HTR1E	KCNH2	MAP4K2	SLC6A4	TDP1
+Prazosin hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=701	ADRA1A	ADRA1B	ADRA1D	BARD1	BRCA1	CYP3A4	GMNN	HSD17B10	IL1B	KDM4E	MCL1	MDM2	MDM4	POLK	RAD54L	SLC5A7	TDP1
+sertraline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=702	ADRA2A	ADRA2B	ADRA2C	APAF1	ATXN2	CDK1	CFL1	CHRM1	CHRM2	CHRM4	CHRM5	CYP2C19	DRD1	HTR2A	HTR2B	HTR2C	IDH1	JUN	KCNH2	MC5R	MCHR1	MDM2	MDM4	NPBWR1	SIGMAR1	SLC5A7	SLC6A2	SLC6A3	SLC6A4	STK33	TAAR1	TP53	UBE2N
+Ropinirole hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=703	DRD2	DRD3	DRD4	KCNH2
+Zoledronic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=704	AASDHPPT	FDPS	GGPS1	MMP14	MMP2	MMP8
+Brinzolamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=705	CA1	CA12	CA13	CA14	CA2	CA4	CA5A	CA5B	CA6	CA7	CA9	CFTR
+Phentermine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=706	SLC6A2
+Dihydroergotamine mesilate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=707	HTR1D	MAPT
+Dofetilide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=708	AR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	KCNH2	MCL1	NR3C1
+Iloperidone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=709	DRD2	HTR1A	HTR2A	HTR6	HTR7
+Masoprocol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=710	ALDH1A1	ALOX15	ALOX15B	AR	ATXN2	CBX1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	FEN1	GLA	GLS	HPGD	HSP90AA1	MPHOSPH8	NFKB1	POLB	POLH	POLI	POLK	RGS4	TDP1	THPO	TP53	VDR
+Loxapine succinate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=711	ABCB1	CHRM4	CHRM5	CYP1A2	DRD1	DRD2	DRD3	DRD4	HTR2A	HTR2C	KCNH2	NCF1
+Loxapine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=712	DRD2	DRD3	DRD4	HTR2A	HTR2C
+guanfacine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=713	ABCB1	ADRA2A	ADRA2B	ADRA2C	NFE2L2
+Labetalol hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=714	ABCB1	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ADRB1	ADRB2	ADRB3	DRD2	HSD17B10	NPY1R	NPY2R
+Diflorasone diacetate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=715	AR	CFTR	CHRM4	KCNQ1	NFE2L2	NR3C1
+Loperamide hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=716	ABCB1	BARD1	BRCA1	CACNA1H	CFTR	DRD1	DRD3	IDH1	IL1B	KCNH2	MAP1LC3A	MAP4K2	MDM2	MDM4	NPY2R	OPRD1	OPRM1	TDP1
+Maprotiline hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=717	ABCB1	AR	CHRM5	CYP19A1	CYP2D6	CYP3A4	DRD1	DRD3	EHMT2	IDH1	IL1B	KCNH2	MAP4K2	MCHR1	MDM2	MDM4	NLRP1	NPBWR1	NR1H4	PAFAH1B3	PPARG	SLC6A2	TDP1	TLR3
+Voriconazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=718	CYP2B6	CYP2C19	CYP2C9	RELA
+Alfuzosin Hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=719	ADRA1A	ADRA1B	ADRA1D	NFE2L2
+Zidovudine triphosphate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=720	POLA1	POLD1
+Levomepromazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=721	DRD2	DRD3	DRD4
+Aredia	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=722	FDPS
+ATOVAQUONE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=723	AHR	CYP2C9	DHODH	GMNN	MDM2	MDM4	NFE2L2	PPARD	TDP1	TP53
+Irinotecan hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=724	AR	ESR1	HSD17B10	TDP1	TP53
+rivastigmine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=725	ACHE	BCHE
+Eletriptan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=726	HTR1A	HTR1B	HTR1D	HTR1E	HTR1F
+Rizatriptan benzoate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=727	HTR1B	HTR1D
+rosiglitazone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=728	CA2	HPGD	MAOA	MAOB	PPARA	PPARG	TBXAS1
+Bexarotene	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=729	BLM	CYP19A1	ESR1	HSPB1	KAT2A	NR1H3	NR3C1	PPARG	RXRA	RXRB	RXRG	TP53	USP1
+flunisolide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=730	AR	CFTR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	NR3C1
+clarithromycin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=731	CYP1A2	CYP2C19	CYP2C9	CYP2D6	F2RL1	KCNH2
+guanethidine sulfate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=732	ABCB1	SLC6A2
+nicotine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=733	CHRNA1	CHRNA3	CHRNA4	CHRNA5	CHRNA6	CHRNA7	CHRNB1	CHRNB2	CHRNB3	CHRNB4	CHRND	CHRNG	CYP2A6
+Theophylline monohydrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=734	ABCB1
+Tiagabine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=735	ESR1	SLC6A1
+Phentolamine mesylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=736	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CYP2D6	DRD3	GFER	HTR1E	KCNH2	MAP3K3	NFE2L2
+Prochlorperazine edisylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=737	BAZ2B	DRD1	DRD2	DRD3	EHMT2	GFER	IL1B	KDM4A	MLLT3	NFE2L2	PLA2G7	PREPL	RACGAP1	RAD52	TDP1	TP53	UBE2N
+Preludin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=738	SLC6A2	SLC6A3
+argatroban	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=739	DRD3	F2
+droxidopa	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=740	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ADRB1	ADRB2	ADRB3
+prednisolone tebutate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=741	NR3C1
+Moxifloxacin hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=742	KLK7	SLC5A7
+Fulvestrant	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=743	AR	CYP19A1	EPHX2	ESR1	ESR2	ESRRA	NFE2L2	NR1H4	NR1I2	NR3C1
+Bosentan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=744	EDNRA	EDNRB
+Fingolimod hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=745	S1PR1	S1PR2	S1PR3	S1PR4	S1PR5
+Fingolimod	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=746	S1PR1	S1PR3	S1PR4	S1PR5
+Vardenafil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=747	PDE1A	PDE1B	PDE1C	PDE2A	PDE3A	PDE3B	PDE4A	PDE4B	PDE4C	PDE4D	PDE5A	PDE6A	PDE6B	PDE6C	PDE6D	PDE6G	PDE6H
+Tadalafil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=748	PDE11A	PDE5A	PDE6A	PDE6B	PDE6C	PDE6D	PDE6G	PDE6H
+diclofenac epolamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=749	PTGS1	PTGS2
+Tizanidine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=750	ADRA2A	ADRA2B	ADRA2C
+Paliperidone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=751	DRD1	DRD2	EHMT2	HTR2A	KCNH2
+Nitisinone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=752	HPD
+Clopidogrel bisulfate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=753	ESR1	P2RY12
+Chirocaine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=754	KCNH2	SCN4A
+Clofarabine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=755	AR	CYP19A1	ESR1	NFE2L2	POLA1	POLD1	POLE	RRM1	RRM2	RRM2B	TDP1	TP53
+pramipexole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=756	DRD2	DRD3	DRD4	TDP1
+Valdecoxib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=757	AR	CA12	CA13	CA14	CA2	CA4	CA5A	CA5B	CA6	CA7	CA9	MAP4K2	PTGS1	PTGS2	SLC6A2
+Carglumic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=758	CPS1
+Galantamine hydrobromide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=759	ACHE	IDH1	TDP1
+Retigabine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=760	KCNQ1	KCNQ2	KCNQ3	KCNQ4	KCNQ5
+Imatinib mesylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=761	ABL1	AHR	BCR	IDH1	KIT	MAP4K2	NR1H4	PDGFRB	RAD52	TDP1
+Levalbuterol hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=762	ADRB2
+Gefitinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=763	ABCG2	ABL1	ABL2	AHR	AXL	BLK	BRSK1	CAMK2D	CAMK2G	CDK7	CHEK2	CIT	CSNK1D	CSNK1E	DAPK3	DCLK3	DMPK	EGFR	EPHA1	EPHA3	EPHA5	EPHA6	EPHA8	EPHB1	EPHB4	EPHB6	ERBB2	ERBB3	ERBB4	ESR1	FGR	FLT3	FLT4	FRK	GAK	GMNN	HCK	HIPK4	IRAK1	IRAK3	IRAK4	KDR	KIT	LCK	LIMK1	LTK	LYN	MAP2K5	MAP3K19	MAP3K2	MAP3K3	MAP4K4	MAP4K5	MAPK10	MAPK14	MAPK4	MAPK6	MAPK9	MAPT	MET	MINK1	MKNK1	MKNK2	MYLK2	NFE2L2	NLK	NUAK2	PHKG1	PHKG2	PIM1	PIM3	PIP4K2C	PRKD1	PRKD2	PRKD3	RIPK2	RPS6KA4	SBK1	SIK2	SLK	SRC	STK10	STK17A	STK17B	STK36	TNIK	TXK	YES1
+Desloratadine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=764	ADRA2B	AR	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	DRD2	DRD3	HRH1	HRH2	HTR2A	HTR2B	HTR2C	HTR6	MAP4K2	MDM2	MDM4	NR1H4	PPARD	RGS4	SLC6A2	SLC6A3	SLC6A4	TDP1
+Desvenlafaxine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=765	SLC6A2	SLC6A4
+Rolazar	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=766	DHFR	GART	TYMS
+methotrexate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=767	APEX1	BARD1	BRCA1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DHFR	EHMT2	HSD17B10	IDH1	KLK7	MDM2	MDM4	MPHOSPH8	NCOA1	NCOA3	NFE2L2	NR1H4	NR5A1	NR5A2	POLB	POLH	POLI	PPARG	TDP1	TNFRSF10B	TP53	TYMS	VDR
+TAMSULOSIN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=768	ADRA1A	ADRA1B	ADRA1D
+Rufinamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=769	CBX1	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+Olmesartan medoxomil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=770	AGTR1
+Ulipristal acetate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=771	PGR
+Febuxostat	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=772	AHR	AR	ATAD5	XDH
+nitric oxide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=773	GUCY1A2	GUCY1A3	GUCY1B2	GUCY1B3
+D-glutamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=774	TSHR
+Escitalopram	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=775	CYP2C19	CYP2C9	SLC6A4
+Escitalopram oxalate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=776	CHRM4	KDM4A	SLC6A4
+Noxafil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=777	ESR1	NFE2L2
+docetaxel	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=778	AR	CYP3A4	ESR1	NR3C1	TACR2	TDP1	TP53	TUBA1A	TUBA1B	TUBA1C	TUBA3C	TUBA3E	TUBA4A	TUBB	TUBB1	TUBB2A	TUBB2B	TUBB3	TUBB4A	TUBB4B	TUBB6	TUBB8
+Atazanavir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=779	AR	SLCO1B1	SLCO1B3	SLCO2B1
+LEVOFLOXACIN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=780	KLK7	RCE1	SLC47A1	SLC5A7	TDP1
+Ezetimibe	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=781	CACNA1H	NPC1L1	NPSR1	PPARG	UGT1A4	UGT2B7
+Nepafenac	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=782	PTGS1	PTGS2
+Entecavir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=784	TDP1
+Focalin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=785	SLC6A2	SLC6A3
+Acamprosate calcium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=786	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	GRIN1	GRIN2A	GRIN2B	GRIN2C	GRIN2D	GRIN3A	GRIN3B	NFE2L2
+NAPROXEN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=787	AKR1C2	AKR1C3	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	PTGS1	PTGS2
+Cinacalcet hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=788	CASR	CYP19A1	PPARD	TDP1
+Lubiprostone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=789	CLCN2
+Metvixia	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=790	KDM4E	NR0B1
+Atazanavir sulfate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=791	PLCB3	PLCG1
+Bepotastine besilate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=792	HRH1
+Anidulafungin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=793	CYP2C8
+Hydergine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=794	ESR1	TDP1
+Proge	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=795	AR	CYP19A1	HSPB1	KCNK3	KCNQ1	NFE2L2	NPSR1	NR3C1	PGR	TDP1
+Milrinone lactate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=796	PDE3A
+ATROPINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=797	ADRA1D	AR	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	HTR2C	RGS4	SLC22A1
+Ropivacaine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=798	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+Erlotinib hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=799	EGFR	ERBB2
+Eslicarbazepine acetate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=800	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+MEMANTINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=801	GRIN1	GRIN2A	GRIN2B	GRIN2C	GRIN2D	GRIN3A	GRIN3B	TNNC1	TNNI3	TNNT2
+TROLEANDOMYCIN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=802	CYP1A2	CYP2C9	CYP2D6	CYP3A4
+Dronedarone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=803	AR	CYP19A1	HSPB1	KCNH2	TDP1
+Ramelteon	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=804	MTNR1A	MTNR1B
+Lapatinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=805	AURKB	CYP3A4	EGFR	ERBB2	ERBB3	ERBB4	HSPB1	MAP2K5	MAP2K7	NFE2L2	PI4KB	PIK3C2B	PIK3C2G	RET	RIPK2	SLK	STK10	YES1
+Tolvaptan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=806	AR	AVPR2
+Sorafenib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=807	ABL1	ABL2	AURKA	AURKB	AURKC	AXL	BLK	BRAF	CAMK2B	CDK14	CDK15	CDK17	CDK19	CDK2	CDK3	CDK5	CDK7	CDK8	CDKL2	CDKL3	CIT	CLK1	CSF1R	DDR1	DDR2	DYRK3	EPHA1	EPHA2	EPHA3	EPHA4	EPHA5	EPHA6	EPHA7	EPHA8	EPHB1	EPHB2	EPHB4	EPHB6	EPHX2	EZH2	FGFR1	FGFR2	FGFR3	FGR	FLT1	FLT3	FLT4	FRK	FYN	GMNN	HCK	HIPK1	HIPK2	HIPK3	HIPK4	IRAK1	JAK3	KDR	KIT	LCK	LIMK1	LIMK2	LYN	MAP2K1	MAP2K5	MAP3K19	MAP3K7	MAP4K1	MAP4K4	MAP4K5	MAPK11	MAPK12	MAPK13	MAPK14	MAPK15	MAPK9	MERTK	MKNK1	MKNK2	MUSK	MYLK2	MYLK3	MYO3B	NLK	NTRK1	NTRK2	NTRK3	PDGFRA	PDGFRB	PLK4	PTPN6	RAF1	RET	RIPK2	RPS6KA1	RPS6KA6	RPS6KB1	SLK	SRMS	STK10	STK16	STK33	STK36	TAOK1	TAOK2	TAOK3	TDP1	TEK	TGFBR2	TIE1	TNIK	TNK1	TNNI3K	TTK	YES1	ZAK
+Conivaptan hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=808	AVPR1A	AVPR2
+Solifenacin succinate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=809	CHRM1	CHRM2	CHRM3
+Regadenoson	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=810	ADORA2A
+Lacosamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=811	CA1	CA12	CA13	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA7	CA9	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+Ziprasidone hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=812	DRD2	DRD3	DRD4	HTR2A	HTR2C	KCNH2
+cortisone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=813	AR	NR3C1
+drostanolone propionate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=814	AR
+FLUDROCORTISONE ACETATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=815	NR3C1	NR3C2
+Nandrolone phenpropionate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=816	AR	ESR1	NR3C1
+Dexamethasone 21-acetate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=817	ABCB1	ABCC1	AR	CFTR	HIF1A	NR3C1
+FLUOROMETHOLONE ACETATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=818	NR3C1
+medrysone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=819	ABCB1	AR	CFTR	NFE2L2	NR3C1
+Vincristine sulfate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=820	ABCB6	ARNT	BARD1	BRCA1	CFTR	CTNNB1	GMNN	HIF1A	HTR1E	MDM2	MDM4	MMP14	NR0B1	NR5A1	PAX8	RELA	RORA	TACC3	TDP1	TLR3	TUBA1A	TUBA1B	TUBA1C	TUBA3C	TUBA3E	TUBA4A	TUBB	TUBB1	TUBB2A	TUBB2B	TUBB3	TUBB4A	TUBB4B	TUBB6	TUBB8
+homoharringtonine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=821	CYP3A4	HTT
+Bortezomib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=822	AR	ATAD5	CAPN1	CMA1	CTRB1	CTSB	CTSG	CTSL	CYP19A1	ELANE	ESR1	F12	F2	HSPB1	NFE2L2	PLAT	PLG	PPARD	PSMA2	PSMA3	PSMA4	PSMA5	PSMA6	PSMA7	PSMA8	PSMB1	PSMB11	PSMB2	PSMB3	PSMB5	PSMB6	PSMB7	PSMB8	TDP1	TP53
+ritonavir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=823	ABCB1	AVPR1A	CACNA1H	CYP2B6	CYP2C19	CYP2C9	CYP2D6	CYP3A4	KAT2A	NPSR1	NR3C1	OPRK1	PPARG	SLC22A1	SLC22A2	SLC47A1	SLC47A2	SLCO1B1	SLCO1B3	SLCO2B1	TACR2	TBXAS1	TDP1	VDR
+Sorafenib tosylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=824	ADAM10	ADAM17	AR	ATXN2	BARD1	BRAF	BRCA1	CFTR	CHRM4	CHRM5	CYP19A1	DRD3	ESR1	FLT1	FLT3	FLT4	GMNN	HCRTR1	IL1B	KDR	KIT	MC4R	MDM2	MDM4	NCOA2	NFE2L2	NR2E3	NR2F2	NR5A1	NR5A2	NTSR1	PAX8	PDGFRB	PPARG	PRNP	RAF1	RET	TAAR1	TDP1	TNFRSF10B	TP53	UCHL5
+OXYTOCIN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=825	AVPR1A	AVPR1B	AVPR2	OXTR
+pentostatin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=826	ADA	DRD3
+griseofulvin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=828	AR	ATAD5	CYP19A1	CYP3A4	ESR1	ITGA4	NAE1	NR1H4	PPARD	PPARG	TDP1	TP53	UBE2M	VDR
+digitoxin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=829	APP	AR	ATAD5	ATP1A1	ATP1A2	ATP1A3	ATP1A4	ATP1B1	ATP1B2	ATP1B3	ESR1	FXYD2	GMNN	IDH1	IL1B	INS	KLF5	NFE2L2	NOD1	NOD2	NPY1R	NPY2R	NR3C1	PTBP1	SLC6A3	SMAD3	STAT3	STK33	TDP1	TNFSF10	TOP2A	TOP2B	TP53
+MOXALACTAM DISODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=830	ABCB1
+SAQUINAVIR	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=831	ALB	ATXN2	AVPR1A	CYP3A4	DRD3	IDH1	IL1B	MRGPRX1	OPRD1	OPRK1	OPRM1	SLC6A3	TACR2	TBXAS1
+abacavir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=832	ABCC1	ABCC2	ABCC3
+PERINDOPRIL ERBUMINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=833	ACE
+MIGLITOL	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=834	APLNR	GAA	MGAM	MRGPRX1
+Amiodarone hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=835	ABCB1	APAF1	AR	CYP19A1	GMNN	KCNH2	MAP4K2	MLLT3	RAD52	SMPD1	UBE2N
+mometasone furoate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=836	AR	CFTR	HSPB1	IDH1	IL1B	NFE2L2	NR1H4	NR3C1	PPP1CA	STK33	TDP1
+Dicyclomine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=837	CHRM1	CHRM3	CHRM4	CHRM5	CYP3A4
+Metoclopramide hydrochloride monohydrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=838	DRD2	HTR3A	HTR4
+METYROSINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=839	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	TH
+ROCURONIUM BROMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=840	AR	CHRNA1	CHRNB1	CHRND	CHRNE	CHRNG	ESR1
+Nortriptyline hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=841	ABCB1	AR	CHRM1	CHRM4	CHRM5	DRD1	DRD2	DRD3	GLP1R	IDH1	IL1B	KCNH2	KCNQ1	MLLT3	PLCG1	SLC6A2	SLC6A4	TDP1
+terconazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=842	ACHE	ADRA1D	ADRA2A	ADRA2B	ADRA2C	AHR	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP51A1	DRD1	DRD3	FYN	GNA15	HSP90AA1	HTR2A	HTR2C	MLLT3	PREPL	SIGMAR1	SLC6A2	SLC6A3	SLC6A4	TAAR1
+linezolid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=843	CYP1A2	CYP2C9	CYP2D6	CYP3A4	ESR1	MAOA
+TESTOSTERONE CYPIONATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=844	AR
+hydrocortisone sodium phosphate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=845	AR	ESR1	NR3C1
+Phortisolone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=846	NR3C1
+Ajmalicine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=847	ADRA1A	ADRA1B	ADRA1D	ADRA2A	ADRA2B	ADRA2C	CYP1A2	CYP2C9	CYP2D6	CYP3A4	KDM4E
+CHLORAMPHENICOL PALMITATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=848	AR
+Eplerenone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=849	AR	NR3C1	NR3C2
+tolterodine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=850	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5
+difluprednate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=851	AR	CFTR	IL1B	NPSR1	NR3C1	SLC5A7	SMARCA2	TDP1
+Doxorubicin Hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=852	ABCB1	APAF1	APEX1	APP	AR	ATAD5	ATXN2	AVPR1A	BAZ2B	BCL2	BCL2A1	BCL2L1	BCL2L10	BCL2L2	BLM	BRCA1	CACNA1H	CASP3	CASP9	CFTR	CRHBP	CRHR2	CYP19A1	CYP3A4	DRD1	EHMT2	EIF4G1	ESR1	FANCD2	GAPDH	GNAI1	GSTO1	HCRTR1	HSP90AA1	HSP90AB1	IDH1	IL1B	INS	ITGA4	JAK2	KEAP1	LYPLA1	MAP3K3	MAP4K2	MAPK1	MAPT	MBD2	MCL1	MDM2	MDM4	MITF	NCOA1	NCOA3	NFE2L2	NFKB1	NLRP3	NOD1	NR1H4	NR3C1	NR5A1	NR5A2	OXTR	PADI4	PAFAH1B2	PAFAH2	PAX8	PLA2G7	POLB	POLH	PPARD	PPARG	PPME1	PRKD1	PRMT1	PTBP1	RAD51	RECQL	RELA	RGS12	RORA	RXRA	S100A4	SELE	SIAE	SMAD3	SNCA	STAT1	STAT3	STAT6	TDP1	THRB	TLR3	TNFRSF10B	TNFSF10	TNNC1	TNNI3	TNNT2	TP53	TRA	UHRF1	USP1	VDR	WRN	YWHAG
+halcinonide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=853	AR	CFTR	NFE2L2	NR3C1
+erythromycin ethylsuccinate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=854	MRGPRX1	NLRP1
+amcinonide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=855	ADAM17	AR	CFTR	GMNN	HIF1A	IDH1	MAP4K2	NPSR1	NR3C1	STAT1	TDP1
+FLUMETHASONE PIVALATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=856	CFTR	NFE2L2	NR3C1	TDP1
+Estramustine phosphate sodium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=857	AR	ESR1	ESR2	TP53
+Loteprednol etabonate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=858	AR	ESR1	NFE2L2	NR3C1	PPARG
+Darifenacin hydrobromide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=859	CHRM2	CHRM3	TDP1
+Darifenacin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=860	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5
+FLUTICASONE PROPIONATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=861	MRGPRX1	NR3C1	PGR
+Retinoic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=863	ABCB1	ADORA3	AHR	AR	ATAD5	CFTR	CYP2C9	DUSP1	EHMT2	ESR1	ESRRA	ESRRB	ESRRG	HIF1A	HNF4A	HSPB1	HTR2B	KAT2A	MAPK1	NFE2L2	NR0B1	NR1H2	NR1H3	NR1H4	NR1I2	NR1I3	NR2C1	NR2F6	NR3C1	NR3C2	NR4A1	NR4A2	NR5A1	NR5A2	PPARD	PPARG	PTGER2	RARA	RARB	RARG	RXRA	RXRB	RXRG	THRA	USP1	VDR
+retinol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=864	ADRBK1	ALDH1A1	AR	CXCL8	CYP19A1	ESR1	HSPB1	HTT	KCNH2	MAPT	NFE2L2	NR1I2	NR3C1	PPARG	RARA	RBP4	SIRT5	TDP1	UCHL5
+tacrolimus	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=865	AR	CYP3A4	FKBP1A	FKBP5	MTOR	TDP1
+cerivastatin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=866	HMGCR
+Rosuvastatin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=867	HMGCR
+mycophenolic acid	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=868	AR	CYP1A2	ESR1	HSD17B10	IMPDH1	IMPDH2	MDM2	MDM4	PPARG	SMN1	SMN2	SNCA	STK33	TDP1	TP53	UGT1A7
+Mupirocin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=869	TDP1
+azithromycin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=870	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4
+diethylstilbestrol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=871	ACHE	ADORA1	ADORA2A	ADORA3	ADRA1D	ADRA2A	ADRA2B	ADRA2C	ADRB1	AOX1	APAF1	AR	AVPR1A	BARD1	BRCA1	CHRM1	CHRM3	CHRM4	CYP19A1	CYP2C19	CYP2C9	CYP2D6	CYP3A4	CYSLTR1	DRD1	DRD2	DRD3	ESR1	ESR2	ESRRG	FYN	GFER	GMNN	GNA15	HSPB1	HTR2A	HTR2B	HTR6	MAPK14	MDM2	MDM4	NFE2L2	NR1H4	NR3C1	OPRD1	OPRK1	OPRM1	PTGS1	RORC	SLC5A7	SLC6A2	SLC6A3	SLC6A4	TAAR1	TACR2	TBXAS1	TNNC1	TNNI3	TNNT2	TP53
+Eptifibatide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=872	ITGA2B	ITGB3
+Alitretinoin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=873	EHMT2	ESR1	NR1H2	NR1I3	NR2C2	NR2F6	NR3C1	NR5A1	PPARG	RARA	RARB	RARG	RXRA	RXRB	RXRG	TDP1	VDR
+Roflumilast	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=874	PDE4A	PDE4B	PDE4C	PDE4D
+Decitabine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=875	DNMT1	DNMT3A	GMNN	NR1H4	PAX8	TDP1	TP53
+DACTINOMYCIN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=876	ALOX15	APEX1	AR	CYP19A1	CYP1A2	CYP2D6	CYP3A4	EHMT2	ESR1	GAPDH	HTT	NR1H4	NR3C1	NRP2	PPARD	PPARG	RAD51	RECQL	RORC	RXRA	TDP1	THRB	TP53	VDR
+melphalan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=877	ABCB1	AR	ATAD5	BARD1	BRCA1	CYP3A4	EHMT2	ESR1	MDM2	MDM4	NFE2L2	NR1H4	NR1I2	RORC	STK33	TDP1	TP53
+Posaconazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=878	CYP3A4
+POTASSIUM PERCHLORATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=879	ESR1
+Sodium acetate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=880	CA1
+Proparacaine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=881	AHR	CFTR	RAD52	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+idarubicin hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=882	APAF1	APOBEC3A	AR	ATAD5	ATXN2	AVPR1A	BCL2L1	CCR6	CRHBP	CRHR2	CYP19A1	ERG	ESR1	GSTO1	HCRTR1	IDH1	IL1B	KCNQ1	LYPLA1	MAP4K2	MCL1	MDM2	MDM4	NFE2L2	NR1H4	NR3C1	OXTR	PADI4	PLA2G7	PLK1	POLH	POLI	POLK	PPARD	PPARG	PPME1	PREPL	RAPGEF3	RAPGEF4	TDP1	TP53	USP1	VDR	WRN
+Modrasone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=883	AR	NR3C1
+Arixtra	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=884	SERPINC1
+Dimethyl fumarate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=885	KEAP1	NFE2L2
+protirelin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=886	TRHR
+Nilotinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=887	ABL1	ABL2	BCR	BLK	BRAF	CA1	CA12	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA7	CA9	CDC42BPB	CLK1	CLK4	CSF1R	CSK	DDR1	DDR2	EPHA1	EPHA2	EPHA3	EPHA4	EPHA5	EPHA6	EPHA8	EPHB1	EPHB2	EPHB3	EPHB4	EPHB6	FGR	FLT3	FRK	FYN	HCK	KIT	LCK	LYN	MAP2K5	MAP4K1	MAPK10	MAPK11	MAPK14	MAPK8	MAPK9	NTRK2	NTRK3	PDGFRA	PDGFRB	PIP4K2C	RAF1	RET	SRC	STK10	TAOK1	TAOK3	TEK	TIE1	TNNI3K	YES1	ZAK
+MEZLOCILLIN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=888	AR	ESR1
+Eletriptan hydrobromide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=889	HTR1B	HTR1D	HTR1F
+OXTRIPHYLLINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=890	ADORA1	ADORA2B	PDE3A	PDE4A
+ANISOTROPINE METHYLBROMIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=891	CHRM1	CHRM3	CHRM4	CHRM5
+propylthiouracil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=892	CYP1A2	CYP2C19	CYP2C9	CYP2D6	DIO1	ESR1	TPO
+Dilantin sodium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=893	CTDSP1
+Atrovent	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=894	ABCB1	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	KCNQ1
+chlorprothixene	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=895	CHRM1	CHRM4	CHRM5	DRD1	DRD2	DRD3	DRD5	HRH1	HTR2A	HTR2C	IL1B	RGS4	TDP1
+doxepin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=896	ALDH1A1	CYP1A2	CYP2D6	DRD1	KCNH2
+dienestrol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=897	ADRB2	ALOX15	ALOX15B	AR	CYP3A4	ESR1	ESR2	GMNN	HSPB1	NFE2L2	NR1H4	NR3C1	PPARG	TP53
+6-Mercaptopurine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=900	AHR	ALDH1A1	BAZ2B	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	HBB	HPRT1	IDH1	KDM4A	KDM4E	NFE2L2	PTGS1	TDP1	TNFRSF10B	TP53
+Tiotixene	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=901	ATXN2	DRD1	DRD2	DRD3	HTR2A	IDH1	MAP4K2	MDM2	MDM4	PLA2G7	UBE2N
+Eszopiclone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=902	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	SLC5A7
+methimazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=903	EHMT2	HSPB1	TPO
+sulindac	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=904	AHR	AKR1B1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	EHMT2	KDM4E	NFE2L2	PTGS1	PTGS2	RXRA	TDP1
+Capsaicin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=905	ALDH1A1	CYP19A1	CYP1A2	CYP3A4	NFE2L2	NR1I2	PLA2G7	PTGS1	TDP1	TRPV1
+terbinafine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=906	ADRA2A	CYP2D6	SIGMAR1	SLC6A2
+6-Thioguanine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=907	ADORA3	AHR	AR	CYP19A1	EHMT2	ESR1	HBB	HPGD	HPRT1	IDH1	IMPDH1	IMPDH2	ITGA4	KDM4A	MAPK3	MITF	NFE2L2	NR3C1	PAX8	PTGS1	TDP1	TNFRSF10B	TP53
+Sodium 4-aminosalicylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=908	CHRM4
+digoxin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=909	APP	AR	ATAD5	ATP1A1	ATP1A2	ATP1A3	ATP1A4	ATP1B1	ATP1B2	ATP1B3	CFTR	CYP19A1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DRD1	EPAS1	ESR1	FXYD2	GALR3	GMNN	HIF1A	HTR5A	IDH1	IL1B	INS	KLF5	MC4R	MDM2	MDM4	MITF	NCOA1	NCOA2	NCOA3	NFE2L2	NOD1	NOD2	NPY1R	NPY2R	NR2F2	NR3C1	NR5A1	NR5A2	OPRD1	OPRM1	PAX8	PTBP1	RGS4	RORC	SLC6A3	STAT3	STK33	TDP1	TNF	TNFSF10	TP53
+Tamoxifen citrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=910	ABCB1	ABHD5	ALDH1A1	APAF1	AR	BAZ2B	CBFB	CYP19A1	CYP1A2	CYP2C19	CYP2D6	CYP3A4	DRD1	DRD3	EHMT2	ESR1	GMNN	GNA15	HNF4A	IL1B	KCNH2	KCNQ1	KDM4A	KDM4E	MDM2	MDM4	MPHOSPH8	NR1I2	PLIN5	PPARD	PPP1CA	RORC	RUNX1	TAAR1	TDP1	THPO	TP53	UBE2N	VDR
+tamoxifen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=911	ADORA1	ADORA2A	ADORA3	ADRA1D	ADRA2A	ADRA2B	ADRB1	ADRB3	ATXN2	BAZ2B	BDKRB2	CBX1	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5	CYP19A1	CYP1A2	CYP2C9	CYP3A4	DHCR7	DRD1	DRD2	DRD3	DRD4	EBP	EBPL	EGFR	EHMT2	ERBB2	ESR1	ESR2	ESRRA	FYN	GMNN	HRH2	HTR2A	HTR2B	HTR2C	HTR6	IDH1	KCNH2	KCNQ1	KDM4A	LCK	MC3R	MC4R	MC5R	MLLT3	OPRD1	OPRK1	OPRM1	PLD1	PLD2	PPARD	PPP3CA	PTGS1	SIGMAR1	SLC6A2	SLC6A3	SLC6A4	STK33	TACR1	TACR2	TBXAS1	TP53	UBE2N	UGT1A4
+ethionamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=912	CYP1A2	ESR1	MCL1
+Estrone sulfate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=913	SLCO2B1
+Telithromycin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=914	AR	KCNH2	TDP1
+Maraviroc	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=915	CCR5	SLC47A1
+Luliconazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=916	AHR	AR	CYP19A1	ESR1	NFE2L2	NR1H4	PPARG	TDP1
+Telaprevir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=917	CELA1	CMA1	CTSB	CTSK	CTSL	CTSS	CTSV	ELANE	F2	PLG
+Nelarabine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=918	USP1
+DEZOCINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=919	OPRK1	OPRM1
+ranitidine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=920	ABCB1	RAD52
+nizatidine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=921	ACHE	HRH2
+Clomifene citrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=922	ABHD5	ADRB2	APAF1	CYP1A2	CYP2D6	DRD3	GMNN	HNF4A	IDH1	KCNQ1	MDM2	MDM4	MLLT3	NLRP3	NR1I2	PLIN1	PLIN5	PPP1CA	RXRA	TDP1	UBE2N
+orlistat	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=923	CNR1	DAGLA	DAGLB	FASN	LIPF	PAFAH2	PLA2G7	PNLIP	TDP1	TNNC1	TNNI3	TNNT2
+Quinine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=924	CYP2D6
+Amrinone lactate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=926	PDE3A
+Ospemifene	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=927	ESR1	ESR2
+Rasagiline mesylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=928	MAOB
+Dasatinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=929	ABL1	ABL2	ACVR1	ACVR1B	ACVR2A	ACVR2B	ACVRL1	ADCK3	AHR	AR	AURKA	AURKB	AXL	BCR	BLK	BMPR1A	BMPR1B	BMX	BRAF	BTK	CDC42BPA	CDC42BPB	CDC42BPG	CSF1R	CSK	CSNK1E	CYP19A1	CYP3A4	DDR1	DDR2	DMPK	DYRK3	EGFR	EIF2AK4	EPHA1	EPHA2	EPHA3	EPHA4	EPHA5	EPHA6	EPHA8	EPHB1	EPHB2	EPHB3	EPHB4	EPHB6	ERBB2	ERBB3	ERBB4	FES	FGFR1	FGFR2	FGFR3	FGR	FLT1	FLT3	FRK	FYN	GAK	GMNN	GUCY1B2	HCK	IRAK4	JAK2	JAK3	KDR	KIT	LCK	LIMK1	LIMK2	LYN	MAP2K1	MAP2K2	MAP2K5	MAP3K10	MAP3K13	MAP3K19	MAP3K2	MAP3K3	MAP3K4	MAP3K7	MAP4K1	MAP4K2	MAP4K3	MAP4K4	MAP4K5	MAPK11	MAPK12	MAPK13	MAPK14	MINK1	MYLK2	MYT1	NEK11	NEK2	NLK	NR0B1	NR2F2	NR3C1	PDGFRA	PDGFRB	PKMYT1	PKN2	PLK4	PPARD	PPARG	PRNP	PTK6	RAF1	RET	RIPK2	SBK1	SIK1	SIK2	SIK3	SLK	SMAD3	SRC	SRMS	STK10	STK25	STK26	STK35	STK36	STK4	SYK	TAOK1	TAOK2	TAOK3	TDP1	TEC	TESK1	TGFBR1	TGFBR2	TNIK	TNK2	TNNI3K	TXK	TYK2	ULK3	VRK2	WEE1	WEE2	YES1	ZAK
+Vandetanib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=930	ABL1	ABL2	ACVR1	ACVRL1	ADCK3	ADCK4	ALK	AURKB	AURKC	AXL	BLK	BMPR1B	BTK	CDC42BPA	CDC42BPB	CDC42BPG	CDK7	CIT	CSF1R	CSK	CSNK1E	DDR1	DDR2	EGFR	EPHA1	EPHA10	EPHA2	EPHA3	EPHA4	EPHA5	EPHA6	EPHA7	EPHA8	EPHB1	EPHB2	EPHB3	EPHB4	EPHB6	ERBB2	ERBB3	ERBB4	FGFR1	FGFR2	FGFR3	FGFR4	FGR	FLT1	FLT3	FLT4	FRK	FYN	GAK	GMNN	HCK	HTT	HUNK	IRAK1	IRAK4	KDR	KIT	LCK	LRRK2	LTK	LYN	MAP2K1	MAP2K2	MAP2K5	MAP3K19	MAP3K4	MAP4K1	MAP4K2	MAP4K3	MAP4K4	MAP4K5	MAPK14	MAPK6	MERTK	MET	MINK1	MKNK1	MKNK2	MTOR	PDGFRA	PDGFRB	PHKG1	PHKG2	PLK4	PRKAA1	PTK6	RET	RIPK2	RIPK4	ROCK2	RPS6KA1	RPS6KA6	RPS6KB1	SIK1	SIK2	SIK3	SLK	SRC	SRMS	STK10	STK32A	STK33	STK35	TDP1	TEK	TESK1	TIE1	TNIK	TNNI3K	TXK	TYRO3	ULK3	YES1	ZAK
+Benztropine mesilate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=932	CHRM1	CYP2D6	KCNH2	PTGER2	TDP1
+Risedronate sodium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=933	FDPS
+Sitagliptin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=934	DPP4	DPP8
+Tolcapone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=935	COMT	NR1H4	NR3C1
+Diclofenac sodium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=936	AKR1C3	AR	CYP2C9	CYP3A4	ESR1	HIF1A	PPARG	PTGS1	PTGS2	SLC5A7	TARDBP	TP53
+Dinoprostone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=937	ABCB1	AR	PTGER1	PTGER2	PTGER3	PTGER4	TSHR
+calcitriol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=938	AHR	AR	DRD3	ESR1	GC	GMNN	HSP90AA1	JAK2	KCNQ1	NLRP3	NOD1	TDP1	VDR
+retinyl palmitate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=939	NFE2L2	PLA2G7	SENP8
+alprostadil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=940	AR	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	MRGPRX1	PTGER1	PTGER2	PTGIR	RGS4
+ergocalciferol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=941	ABCB1	AR	CYP19A1	EHMT2	ESR1	HSPB1	NFE2L2	NR3C1	TDP1	VDR
+Vitamin D3	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=942	ABCB1	ALOX15	AR	CYP3A4	EHMT2	ESR1	GMNN	HSPB1	MAPT	NFE2L2	PPARG	RORC	VDR
+Rescinnamin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=943	ABCB1	BARD1	BRCA1	CFTR	EHMT2	FASN	GMNN	GOPC	KDM4A	KPNB1	MDM2	MDM4	RAN	SLC18A2	SNUPN	TDP1
+amphotericin b	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=944	CYP1A2	CYP2C9	CYP2D6	CYP3A4	HSD17B10	NFE2L2	NR1H4	NR3C1	TNF
+Quetiapine fumarate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=946	ESR1
+Prochlorperazine dimaleate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=947	ABCB1	AHR	CYP19A1	KCNH2	MPHOSPH8	TDP1
+Timolol maleate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=948	ADRB1	ADRB2	NPY1R	NPY2R
+CLEMASTINE FUMARATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=949	ABCB1	ATXN2	HRH1
+Dexchlorpheniramine maleate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=950	HRH1	IL1B	RGS4	TNNC1	TNNI3	TNNT2
+Methylergonovine maleate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=951	DRD1	HTR2B
+Methysergide maleate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=952	APAF1	APEX1	BCL2L1	CASP6	DRD1	DRD2	DRD3	EHMT2	ESR2	GAPDH	GSTO1	HCRTR1	HTR1A	HTR1E	HTR2B	HTR2C	HTR5A	MAP3K3	MAP4K2	MAPT	MCL1	PABPC1	PADI4	PREPL	PRMT1	PSIP1	RAD54L	TDP2
+CARBOPROST TROMETHAMINE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=953	PTGFR
+ethchlorvynol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=954	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ
+mycophenolate mofetil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=955	AR	ESR1	IMPDH1	IMPDH2	NFE2L2	NR1H4	PPARG	TDP1	TP53
+ENTACAPONE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=956	COMT	HSPB1	NFE2L2	POLK	TP53	UGT1A9
+Tindal	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=957	AHR
+Cidoxepin HCl	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=958	DRD1
+NAFTIFINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=959	ATM	DRD3
+Paricalcitol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=960	ESR1	VDR
+Doxercalciferol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=961	AR	VDR
+Rescula	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=962	AR	TDP1	TP53
+Travoprost	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=963	PTGFR
+etretinate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=964	AR	ESR1	GMNN	HSPB1	RARA	RXRG	TP53
+Isotretinoin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=965	ABCB1	ADORA3	ADRA2B	AR	BARD1	BRCA1	CFTR	ESR1	HTR2B	MAPK1	MAPK14	MDM2	MDM4	NR0B1	NR1H4	NR5A1	PLA2G7	PPARG	RARB	TDP1	THRB	VDR
+misoprostol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=966	NPSR1	NPY1R	NPY2R	PTGER2	PTGER3	TDP1
+Pataday	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=967	HRH1	PLA2G7	S100A4
+KETOTIFEN FUMARATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=968	ABHD5	CHRM1	CHRM4	CHRM5	DRD1	DRD3	HRH1	PLIN5	TLR3
+indocyanine green	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=969	ABHD5	ADRB2	ARNT	ATG4B	BCL2L1	CRHBP	CRHR2	DNMT1	FEN1	GSTO1	IDE	IL1B	KDM4A	MCL1	NR2E3	PAFAH2	PIP4K2A	PLA2G1B	PLA2G7	PLIN5	POLH	POLI	POLK	PPP1CA	SUMO1	TACC3	TNNC1	TNNI3	TNNT2	WRN
+dinoprost tromethamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=970	PTGER2	PTGFR	SLC5A7
+Pitavastatin calcium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=971	HMGCR
+Rosuvastatin calcium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=972	HMGCR
+EPROSARTAN MESYLATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=973	AGTR1
+CLOCORTOLONE PIVALATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=974	AR	CFTR	NFE2L2	NR3C1
+Cortisol 17-valerate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=975	AR	CFTR	IL1B	NFE2L2	NR3C1	TLR3
+AC1NR2UR	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=976	ALOX15	CYP3A4	EHMT2	ESR1	GMNN	MAPT	NFE2L2	RORC	VDR
+Calcifediol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=977	AR	GMNN
+Levobunolol HCl	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=978	ADRB1	ADRB2
+PHENYLEPHRINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=979	ADRA1A	ADRA1B	ADRA1D	ADRB2	DRD1	DRD2	DRD3	TDP1
+PYRILAMINE MALEATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=980	ABCB1	HRH1	KCNH2	PAX8
+Acitretin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=981	CYP19A1	ESR1	GMNN	KAT2A	KDM4A	MAPT	PLA2G7	PLK1	RAPGEF4	RARA	RXRG	TP53	USP1	VDR
+dorzolamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=982	CA1	CA12	CA13	CA14	CA2	CA3	CA4	CA5A	CA5B	CA6	CA7	CA9
+Estropipate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=983	ESR1	RAPGEF3	VDR
+granisetron	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=984	HTR3A	HTR3B	KCNH2	SLC22A2	SLC47A1
+hydromorphone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=985	OPRD1	OPRK1	OPRM1
+Levetiracetam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=986	CACNA1B	EIF4G1	SV2A
+meprednisone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=987	AR	NR3C1
+nalmefene	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=988	ESR1	OPRD1	OPRK1	OPRM1
+naloxone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=989	ADORA3	CYP2D6	OPRD1	OPRK1	OPRM1
+oxycodone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=990	OPRD1	OPRK1	OPRM1
+VITAMIN K1	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=991	AHR
+topiramate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=992	AQP4	CA1	CA11	CA12	CA13	CA14	CA2	CA4	CA5A	CA5B	CA6	CA7	CA9	GABRA1	GABRA2	GABRA3	GABRA4	GABRA5	GABRA6	GABRB1	GABRB2	GABRB3	GABRD	GABRE	GABRG1	GABRG2	GABRG3	GABRP	GABRQ	GRIA1	GRIA2	GRIA3	GRIA4	GRIK1	GRIK2	GRIK3	GRIK4	GRIK5	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+Calcipotriol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=993	AR	ESR1	HSPB1	NFE2L2	NR1H4	TDP1	TP53	VDR
+morphine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=994	ABCB1	OPRD1	OPRK1	OPRM1	SLC22A1
+Bimatoprost	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=995	PTGFR
+DESONIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=996	AR	ATAD5	ESR1	NR3C1
+desoximetasone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=997	AR	CFTR	HIF1A	MAP3K3	NFE2L2	NR3C1
+latanoprost	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=998	PTGFR
+nalbuphine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=999	CYP1A2	CYP2D6	CYP3A4	OPRD1	OPRK1	OPRM1
+nateglinide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1000	ABCC8	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	KCNJ11
+Rapacuronium bromide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1001	CHRNA1	CHRNB1	CHRND	CHRNE	CHRNG
+RIMEXOLONE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1002	CFTR	NFE2L2	NR3C1	TDP1
+Silodosin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1003	ADRA1A
+furazolidone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1004	AR	CYP19A1	ESR1	HCRTR1	NFE2L2	TDP1	TP53
+Bosutinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1005	AAK1	ABL1	ABL2	ALK	ANKK1	AXL	BCR	BLK	BMP2K	BMPR2	BMX	BTK	CAMK1D	CAMK2A	CAMK2G	CAMKK2	CASK	CDK14	CDK15	CDK16	CDK7	CHEK1	CHEK2	CIT	CLK1	CLK2	CLK3	CLK4	CSF1R	CSK	CSNK1A1	CSNK1A1L	CSNK1D	CSNK1E	DCLK3	DDR1	DDR2	DMPK	DSTYK	EGFR	EIF2AK1	EIF2AK4	EPHA1	EPHA2	EPHA3	EPHA4	EPHA5	EPHA6	EPHA8	EPHB1	EPHB2	EPHB3	EPHB4	EPHB6	ERBB2	ERBB3	ERBB4	FER	FES	FGR	FLT3	FRK	FYN	GAK	GRK4	GRK7	HCK	HIPK1	HIPK2	HIPK3	HIPK4	HUNK	IKBKE	IRAK1	IRAK4	ITK	JAK2	JAK3	KIT	LCK	LRRK2	LTK	LYN	MAP2K1	MAP2K2	MAP2K3	MAP2K4	MAP2K5	MAP2K6	MAP2K7	MAP3K1	MAP3K11	MAP3K12	MAP3K13	MAP3K19	MAP3K2	MAP3K3	MAP3K4	MAP3K7	MAP3K9	MAP4K1	MAP4K2	MAP4K3	MAP4K4	MAP4K5	MAPK7	MAST1	MATK	MERTK	MET	MINK1	MST1R	MYLK	MYO3A	MYO3B	NEK11	NEK2	NIM1K	NLK	NPM1	NTRK1	NTRK2	NTRK3	NUAK1	NUAK2	PAK1	PAK2	PAK3	PDGFRA	PDGFRB	PHKG1	PHKG2	PIP5K1A	PKMYT1	PKN1	PKN2	PLK1	PLK2	PRKAA1	PRKCD	PRKCE	PRKCQ	PRKD3	PTK2	PTK2B	RET	RIOK1	RIOK3	RIPK2	ROCK1	ROCK2	RPS6KA2	RPS6KA3	RPS6KA6	RPS6KB1	SIK1	SIK2	SIK3	SLK	SRC	SRMS	SRPK3	STK10	STK24	STK25	STK26	STK3	STK32A	STK33	STK35	STK36	STK39	STK4	SYK	TAOK1	TAOK2	TAOK3	TBK1	TEC	TEK	TIE1	TLK1	TLK2	TNIK	TNK2	TNNI3K	TSSK1B	TXK	TYK2	TYRO3	ULK1	ULK2	ULK3	VRK2	WEE1	WEE2	YES1	ZAK	ZAP70
+Sunitinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1006	AAK1	ABL1	ABL2	AKT2	ALK	ANKK1	AURKA	AURKB	AURKC	AXL	BLK	BMP2K	BMPR1B	BMPR2	BRSK1	BRSK2	BTK	CAMK1	CAMK1D	CAMK1G	CAMK2A	CAMK2B	CAMK2D	CAMK2G	CAMK4	CAMKK1	CAMKK2	CDK14	CDK16	CDK17	CDK18	CDK4	CDK5	CDK7	CDKL2	CHEK1	CHEK2	CHUK	CIT	CLK1	CLK2	CLK4	CSF1R	CSNK1A1	CSNK1A1L	CSNK1D	CSNK1E	CSNK1G1	CSNK1G2	CSNK1G3	CSNK2A1	CSNK2A2	DAPK1	DAPK2	DAPK3	DCLK1	DCLK2	DCLK3	DDR1	DDR2	DSTYK	DYRK1A	DYRK1B	DYRK2	EGFR	EIF2AK2	EIF2AK4	EPHA3	EPHA5	EPHA6	EPHA7	EPHB1	EPHB4	EPHB6	ERN1	FER	FES	FGFR1	FGFR2	FGFR3	FGFR4	FGR	FLT1	FLT3	FLT4	FRK	FYN	GAK	GRK1	GRK4	GRK7	HCK	HIPK1	HIPK2	HIPK3	HIPK4	HUNK	ICK	IGF1R	IKBKE	INSR	INSRR	IRAK1	IRAK3	IRAK4	ITK	JAK1	JAK2	JAK3	KDR	KIT	LATS1	LATS2	LCK	LRRK2	LTK	LYN	MAP2K1	MAP2K2	MAP2K3	MAP2K4	MAP2K5	MAP2K6	MAP3K11	MAP3K12	MAP3K13	MAP3K15	MAP3K19	MAP3K2	MAP3K3	MAP3K4	MAP3K5	MAP3K7	MAP3K9	MAP4K1	MAP4K2	MAP4K3	MAP4K4	MAP4K5	MAPK10	MAPK7	MAPK9	MARK1	MARK2	MARK3	MARK4	MAST1	MATK	MELK	MERTK	MET	MINK1	MKNK1	MKNK2	MUSK	MYLK	MYLK2	MYLK3	MYLK4	MYO3A	MYO3B	NEK2	NEK7	NIM1K	NOS3	NTRK1	NTRK2	NTRK3	NUAK1	NUAK2	OXSR1	PAK3	PAK4	PAK6	PAK7	PDGFRA	PDGFRB	PDPK1	PHKG1	PHKG2	PIM2	PIM3	PIP4K2B	PIP5K1A	PKN1	PKN2	PLK2	PLK4	PRKAA1	PRKAA2	PRKCA	PRKCQ	PRKD1	PRKD2	PRKD3	PRPF4B	PTK2	PTK2B	PTK6	RET	RIOK1	RIOK2	RIOK3	RIPK1	RIPK4	ROCK1	ROCK2	RPS6KA1	RPS6KA2	RPS6KA3	RPS6KA4	RPS6KA5	RPS6KA6	RPS6KB1	SBK1	SBK3	SGK3	SIK1	SIK2	SLK	SNRK	SRC	SRPK1	SRPK2	SRPK3	STK10	STK11	STK16	STK17A	STK17B	STK24	STK25	STK26	STK3	STK33	STK35	STK38	STK38L	STK39	STK4	TAOK1	TAOK3	TBK1	TIE1	TLK1	TLK2	TNIK	TNK1	TNK2	TSSK1B	TTK	TYK2	TYRO3	ULK1	ULK2	ULK3	WEE1	YES1
+pralidoxime	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1007	ACHE
+PRALIDOXIME CHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1008	ACHE
+Oxymorphone HCl	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1009	OPRD1	OPRK1	OPRM1
+sulfasalazine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1010	CYP1A2	CYP2C9	CYP2D6	CYP3A4	HIF1A	HPGD	MAPT
+naltrexone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1011	CYP2D6	OPRD1	OPRK1	OPRM1
+dextromethorphan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1012	CYP2D6	SLC6A4
+NALBUPHINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1013	ABCB1	ABL1	OPRD1	OPRK1	OPRM1	PRKACB	PRKAR2B	RIN1
+butorphanol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1014	CYP1A2	CYP2C19	CYP2C9	CYP3A4	OPRD1	OPRK1	OPRM1
+lisinopril	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1015	ACE
+BENAZEPRIL HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1016	ACE	AR	CYP19A1	ESR1	HSPB1	NR1H4	PPARD	TDP1	TP53
+ramipril	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1017	ACE	CFTR
+TAMSULOSIN HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1018	ADRA1A	ADRA1B	ADRA1D	AR
+indinavir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1019	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	SLC47A1	SLC47A2	TACR2	TBXAS1
+Rifampicin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1020	ABCB1	ALB	CASP1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	CYP51A1	NR1I2	SLCO1B1	SLCO1B3
+Enalapril maleate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1021	ABCB1	ACE	ARRB1	INS	KDM4A
+Vinblastine sulfate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1022	AR	ATAD5	ATXN2	BARD1	BCL2L1	BRCA1	CFTR	CYP19A1	ESR1	HSPB1	HTR1E	IDH1	MCL1	MDM2	MDM4	MITF	NFE2L2	NR0B1	NR1H4	NR5A1	NR5A2	PAX8	PLA2G3	PPARG	RELA	RORA	TDP1	TLR3	TP53	TUBA1A	TUBA1B	TUBA1C	TUBA3C	TUBA3E	TUBA4A	TUBB	TUBB1	TUBB2A	TUBB2B	TUBB3	TUBB4A	TUBB4B	TUBB6	TUBB8	VDR
+nitrofurazone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1024	AHR	AR	CYP19A1	HCRTR1	NFE2L2	TDP1
+Pamine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1025	CHRM1	CHRM3	CHRM4	CHRM5
+Hymorphan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1026	OPRM1
+Oxycodone hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1027	OPRM1
+Indinavir sulfate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1028	AR	CYP19A1	KDM4A	TDP1	TNNC1	TNNI3	TNNT2
+Dextromethorphan hydrobromide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1029	GRIN2A	SIGMAR1
+Naloxone hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1030	ABCB1	EHMT2	GNAO1	OPRD1	OPRK1	OPRM1	RGS4	RGS7	RGS8
+cefotaxime	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1031	ALB
+ceftriaxone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1032	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4
+trandolapril	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1033	ACE
+Naltrexone hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1034	ABCB1	OPRD1	OPRK1	OPRM1
+Balsalazide Disodium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1035	ALOX5	PTGS1	PTGS2
+Pregabalin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1036	CACNA1A	CACNA1B	CACNA1C	CACNA1D	CACNA1E	CACNA1F	CACNA1G	CACNA1H	CACNA1I	CACNA1S	CACNA2D1	CACNB1	CACNB2	CACNB3	CACNB4	CACNG1	CACNG2	CACNG3	CACNG4	CACNG5	CACNG6	CACNG7	CACNG8	ESR1
+Alvimopan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1037	OPRD1	OPRK1	OPRM1
+Deferasirox	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1038	AR	ESR1	NR1H4	NR3C1	TDP1
+Aliskiren	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1039	REN
+Guanabenz acetate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1040	ABCB1	ADRA2A	ADRA2B	ADRA2C	CHRM1	CHRM5	KCNH2	TAAR1
+guanabenz	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1041	ADRA1D	ADRA2A	ADRA2B	ADRA2C	HTR2A	HTR2B	HTR2C	MAOA	MAP3K3	NISCH	TAAR1
+Triprolidine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1042	ABCB1	CFTR	HRH1	KCNH2	NFE2L2
+famotidine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1043	ABCB6	HRH2	KDM4A	NCOA1	PPARG	SLC22A2	SLC22A3	SLC47A1	SLC47A2
+aztreonam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1044	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4
+Morphine sulfate pentahydrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1045	OPRM1
+IVERMECTIN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1046	ESR1	TDP1
+RIFABUTIN	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1047	AR	MAPT	NFE2L2	NR1I2	TDP1	VDR
+Epoprostenol sodium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1049	PTGIR
+Doxepin Hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1050	ABCB1	CHRM1	CHRM4	CHRM5	DRD1	DRD2	DRD3	GLP1R	KCNH2	RGS4
+CLOMIPHENE CITRATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1051	ABCB1	ABHD5	ATXN2	BARD1	BRCA1	DRD1	DRD3	EHMT2	ESR1	GMNN	HNF4A	IDH1	INS	KCNQ1	KDM4A	MAP4K2	NCF1	NLRP3	NPSR1	PLIN1	PLIN5	PPP1CA	TDP1	UBE2N
+Benoxinate hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1052	AHR	RAD52	SCN10A	SCN11A	SCN1A	SCN2A	SCN3A	SCN4A	SCN5A	SCN7A	SCN8A	SCN9A
+DEXBROMPHENIRAMINE MALEATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1053	HRH1	KCNH2
+Proketazine maleate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1054	AHR	TDP1
+Rifaximin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1055	NR1I2	TDP1
+Mycophenolate mofetil hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1056	IMPDH1	IMPDH2
+Everolimus	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1057	AR	CYP19A1	ESR1	FKBP1A	NR3C1	TDP1
+Ixabepilone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1058	TUBA1A	TUBA1B	TUBA1C	TUBA3C	TUBA3E	TUBA4A	TUBB	TUBB1	TUBB2A	TUBB2B	TUBB3	TUBB4A	TUBB4B	TUBB6	TUBB8
+Axitinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1059	AAK1	ABL1	ABL2	ACVR2B	AHR	ANKK1	ATAD5	AURKA	AURKB	AURKC	AXL	BLK	BMP2K	BMPR1B	CAMKK1	CAMKK2	CDC42BPB	CDK16	CDKL2	CSF1R	CSK	CSNK2A2	DDR1	DDR2	EGFR	EIF2AK2	EPHB6	ESR1	FGFR1	FGFR2	FGFR3	FGR	FLT1	FLT3	FLT4	GAK	GRK4	HUNK	IRAK1	ITK	JAK2	JAK3	KDR	KIT	LCK	LRRK2	MAP2K1	MAP2K2	MAP2K5	MAP3K12	MAP3K19	MAP3K3	MAP3K4	MAP3K9	MAP4K1	MAP4K2	MAP4K3	MAP4K4	MAP4K5	MAPK10	MAPK8	MERTK	MET	MINK1	MYLK2	MYLK3	MYO3A	NFE2L2	NTRK1	NUAK2	PAK4	PDGFRA	PDGFRB	PKN2	PLK4	RET	RIOK1	RIOK3	RIPK1	RIPK2	RIPK4	ROS1	SIK1	SLK	SRPK1	SRPK3	STK10	STK16	STK3	STK4	TDP1	TEK	TESK1	TIE1	TNIK	TNK1	TNK2	TP53	TTK	TXK	TYK2	ULK2	ULK3	YES1	ZAK
+Sitagliptin phosphate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1060	DPP4	DPP8	DPP9
+Sunitinib malate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1061	CSF1R	FLT1	FLT3	FLT4	KDR	KIT	PDGFRA	PDGFRB	RET
+Dirithromycin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1062	NLRP1	PTGER2
+Protriptyline hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1063	CHRM1	CHRM4	CHRM5	DRD1	DRD2	DRD3	IDH1	SLC6A2	SLC6A4	TDP1
+DANTROLENE SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1064	HCRTR1	MAPT	RYR1	RYR3	SLC5A7
+nitrofurantoin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1065	ABCB1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	HCRTR1	MLLT3	NFE2L2	PRMT1	RORC	TDP1	USP1
+PREDNICARBATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1066	AR	CFTR	NFE2L2	NR3C1
+dantrolene	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1067	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	MAPT
+cefdinir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1068	ACP1	APOBEC3A	ARNT	CASP6	CTDSP1	DNMT1	KDM4A	PTPN5	RBBP8	SIX1	SUMO1	TACC3
+ETONOGESTREL	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1069	AR	ESR1	NR3C1	PGR	SHBG
+Fetzima	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1070	SLC6A2	SLC6A4
+Levomilnacipran	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1071	SLC6A2	SLC6A3	SLC6A4
+Dapiprazole hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1072	ADRA1A	DRD3	ESR1
+Dexmedetomidine hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1073	ADRA2A	ADRA2B	ADRA2C
+DORZOLAMIDE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1074	CA2
+Treprostinil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1075	PTGIR
+Ciclesonide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1076	AR	ESR1	NR3C1
+Ulobetasol propionate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1077	AHR	AR	NR3C1	TDP1
+Dutasteride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1078	AR	NR3C1	SRD5A1	SRD5A2	SRD5A3
+Palonosetron hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1079	HTR3A	TDP1
+Vilazodone hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1080	HTR1A	SLC6A4
+Vilazodone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1081	DRD2	HTR1A	SLC6A4
+Ambrisentan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1082	EDNRA	EDNRB
+Belinostat	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1083	HDAC1	HDAC2	HDAC3	HDAC4	HDAC5	HDAC6	HDAC7	HDAC8	HDAC9
+Ingenol mebutate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1084	PRKCD
+chlorhexidine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1085	ABCB1	ABHD5	APAF1	AR	ATXN2	BARD1	BRCA1	CYP19A1	CYP1A2	CYP2D6	DRD1	EHMT2	ESR1	GBA	GSK3A	HKDC1	HTT	IDH1	IL1B	KCNQ1	KPNB1	MAPT	MC4R	MDM2	MDM4	MLLT3	MMP2	MMP9	MRGPRX1	NFE2L2	NLRP3	NR1H4	PAX8	PLIN1	PLIN5	PPARD	PPP1CA	RAD52	RAD54L	RORC	SLC22A1	SLC22A2	SLC22A3	SLC47A1	SLC47A2	SNUPN	TARDBP	TDP1	UBE2N	USP1
+Oxiconazole nitrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1086	AHR	AR	CYP19A1	CYP3A4	ESR1	HSPB1	MDM2	MDM4	PPP1CA	UBE2N
+FLUVOXAMINE MALEATE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1087	APAF1	APOBEC3G	SLC6A4	TDP1	TNNC1	TNNI3	TNNT2
+Perprazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1088	ATP4A	ATP4B
+dexlansoprazole	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1089	ATP4A	ATP4B
+Armodafinil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1090	SLC6A3
+Vargatef	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1091	AKT1	FGFR1	FGFR2	FGFR3	FGFR4	FLT1	FLT3	FLT4	KDR	LCK	LYN	MAP3K11	PDGFRA	PDGFRB	SRC
+Abiraterone acetate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1092	CYP17A1	ESR1
+Indacaterol maleate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1093	ADRB2
+Desmopressin acetate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1094	AVPR1A	AVPR1B	AVPR2
+Tapentadol hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1095	OPRM1	SLC6A2
+Fesoterodine fumarate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1096	CHRM2	CHRM3
+Lomitapide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1097	MTTP
+CABAZITAXEL	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1098	TUBA1A	TUBA1B	TUBA1C	TUBA3C	TUBA3E	TUBA4A	TUBB	TUBB1	TUBB2A	TUBB2B	TUBB3	TUBB4A	TUBB4B	TUBB6	TUBB8
+Fluticasone furoate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1099	NR3C1
+Mirabegron	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1100	ADRB3
+Tafluprost	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1101	PTGFR
+Avanafil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1102	PDE5A
+Ticagrelor	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1103	P2RY12
+Rivaroxaban	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1104	F10
+Gabapentin enacarbil	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1105	CACNA1A	CACNA1B	CACNA1C	CACNA1D	CACNA1E	CACNA1F	CACNA1G	CACNA1H	CACNA1I	CACNA1S	CACNA2D1	CACNB1	CACNB2	CACNB3	CACNB4	CACNG1	CACNG2	CACNG3	CACNG4	CACNG5	CACNG6	CACNG7	CACNG8
+Dapagliflozin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1106	SLC5A1	SLC5A2	SLC5A4
+Perampanel	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1107	GRIA1	GRIA2	GRIA3	GRIA4
+Levocetirizine dihydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1108	HRH1
+Linagliptin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1109	CHRM1	DPP4
+Tofacitinib citrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1110	JAK1	JAK2	JAK3	TYK2
+Apixaban	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1111	F10	F2
+Afatinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1112	ABL1	AXL	BLK	CIT	CSNK1E	DYRK1A	DYRK1B	DYRK2	EGFR	EPHA6	EPHB6	ERBB2	ERBB3	ERBB4	FLT3	FRK	GAK	HCK	HIPK4	IRAK1	LCK	MAP2K5	MAPK10	MAPK14	MAPK9	MET	MKNK1	MKNK2	PHKG1	PHKG2	RIPK2	RPS6KA6	SBK1	SLK	SRC	STK10	STK17A	TXK
+Tasimelteon	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1113	MTNR1A	MTNR1B
+Arkitropin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1114	CYP1A2	CYP2C19	CYP2C9	CYP3A4
+CEFOTAXIME SODIUM SALT	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1115	ABCB1	APEX1	CASP6	CHRM1	CHRM4	CHRM5	CTDSP1	DNMT1	EHMT2	KDM4A	MPHOSPH8	POLB	POLH	POLI	POLK	PRMT1	PSIP1	RECQL	SIRT5	TDP1	UHRF1
+Baciguent	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1116	EGFR	LCK
+Regorafenib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1117	ABL1	BRAF	DDR2	EPHX2	FGFR1	FGFR2	FLT1	FLT4	FRK	KDR	KIT	MAPK11	PDGFRA	PDGFRB	RAF1	RET	TEK	YES1
+Lomitapide mesylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1118	MTTP	P4HB
+Dabigatran etexilate mesylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1119	F2
+Umeclidinium bromide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1120	CHRM1	CHRM2	CHRM3
+Aclidinium bromide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1121	CHRM1	CHRM2	CHRM3	CHRM4	CHRM5
+Pazopanib hydrochloride	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1122	ABL1	ALK	AURKB	CDK7	CSF1R	FGFR1	FGFR3	FLT1	FLT4	FYN	IGF1R	ITK	KDR	KIT	LCK	LIMK1	LTK	MAP4K4	MAPK8	MAPK9	MET	NEK2	PDGFRA	PDGFRB	PTK2	RET	TAOK1	TNK2
+Carfilzomib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1123	AR	ATAD5	CYP19A1	ESR1	HSPB1	NFE2L2	PSMA2	PSMA3	PSMA4	PSMA5	PSMA6	PSMA7	PSMA8	PSMB1	PSMB11	PSMB2	PSMB3	PSMB5	PSMB6	PSMB7	PSMB8	TDP1	TP53	VDR
+Lapatinib ditosylate hydrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1124	EGFR	ERBB2
+Sitagliptin phosphate monohydrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1125	DPP4
+Vyvanse	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1126	SLC18A2	SLC6A2	SLC6A3
+Crizotinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1128	AAK1	ABL1	ABL2	ACVR1	ACVR1B	ADCK4	ALK	ANKK1	AURKA	AURKB	AURKC	AXL	BLK	BMP2K	BMPR1B	BMX	BTK	CAMKK2	CASK	CDK11A	CDK11B	CDK7	CDKL2	CSF1R	DCLK1	DCLK2	DDR1	DMPK	DSTYK	DYRK2	EGFR	EIF2AK2	EPHA1	EPHA2	EPHA3	EPHA4	EPHA5	EPHA6	EPHA7	EPHA8	EPHB1	EPHB4	EPHB6	FER	FES	FGFR3	FGR	FLT1	FLT3	FRK	FYN	GRK4	HIPK4	IGF1R	IKBKB	IKBKE	INSR	INSRR	IRAK1	IRAK3	IRAK4	ITK	JAK1	JAK2	JAK3	KIT	LCK	LIMK1	LIMK2	LTK	LYN	MAP2K3	MAP3K1	MAP3K12	MAP3K13	MAP3K15	MAP3K19	MAP3K2	MAP3K3	MAP3K7	MAP4K1	MAP4K2	MAP4K3	MAP4K5	MAPK7	MERTK	MET	MINK1	MST1R	MUSK	NEK7	NEK9	NIM1K	NPM1	NTRK1	NTRK2	NTRK3	NUAK2	PIP5K1A	PLK4	PRKAA1	PRKD1	PRKD3	PTK2	PTK2B	RET	RIOK1	RIOK3	RIPK1	RIPK2	RIPK4	ROCK1	ROCK2	ROS1	RPS6KB1	SBK1	SBK3	SIK2	SLK	SRC	SRPK1	SRPK3	STK10	STK26	STK3	STK35	STK4	SYK	TAOK1	TAOK2	TAOK3	TBK1	TEK	TESK1	TGFBR1	TIE1	TNK1	TNK2	TNNI3K	TXK	TYK2	TYRO3	ULK1	ULK2	ULK3	YES1	ZAP70
+Trametinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1129	MAP2K1	MAP2K2
+LOSARTAN POTASSIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1130	CHRM1	CHRM5
+Acetazolamide sodium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1131	CA1	CA12	CA2	CA4
+Enzalutamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1132	AR
+Macitentan	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1133	EDNRA	EDNRB
+ESOMEPRAZOLE STRONTIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1134	ATP4A	ATP4B
+CURARE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1135	TDP1
+Clindamycin palmitate HCl	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1136	AR	TDP1
+Alogliptin benzoate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1137	DPP4
+Bivalirudin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1138	F2
+Abarelix	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1139	GNRHR
+Sodium 4-aminosalicylate dihydrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1140	PTGS1	PTGS2
+Chinini sulfas	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1141	AHR	AR	ESR1	NR3C1	TDP1
+Ivacaftor	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1142	CFTR
+PRAVASTATIN SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1143	HMGCR
+ALENDRONATE SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1144	FDPS
+Sodium valproate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1145	ALDH5A1	SMARCA2
+Eribulin mesylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1146	TUBA1A	TUBA1B	TUBA1C	TUBA3C	TUBA3E	TUBA4A	TUBB	TUBB1	TUBB2A	TUBB2B	TUBB3	TUBB4A	TUBB4B	TUBB6	TUBB8
+Alcaftadine	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1147	HRH1
+mesna	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1148	MAPT
+Sodium oxybate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1149	GABBR1	GABBR2
+NOVOBIOCIN SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1150	PPARG
+DIVALPROEX SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1151	ALDH5A1
+Meclomen	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1152	CYP2C9	CYP3A4	GMNN	PPARG	TP53
+CEFOPERAZONE SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1153	AHR
+AMPICILLIN SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1154	GLS	PABPC1	POLH	POLK
+CERIVASTATIN SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1155	AR	CYP19A1	ESR1	HMGCR	NR3C1	TDP1
+MONTELUKAST SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1156	AHR	ATAD5	ATG4B	CYSLTR1	KDM4A	PLA2G1B	POLH	POLI	POLK	PPP1CA
+Penicillin G potassium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1157	FPR1
+TOLMETIN SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1158	HPGD	PTGS1	PTGS2
+Cytomel	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1159	AHR	ALDH1A1	BAZ2B	BLM	ESR1	GMNN	GPR55	HPGD	MCL1	NFE2L2	NR3C1	POLB	PPARG	THRA	THRB
+CEFMETAZOLE SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1160	CTDSP1	DNMT1	FGF22	GLS	POLH	UHRF1
+CEFOXITIN SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1161	ABCB1	BAZ2B	CTDSP1	GLS	ITGA4	KDM4A	KDM4E	POLB	WEE1
+Levothyroxine sodium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1162	THRA	THRB
+Dicloxacillin sodium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1163	ABCB1	ADAM10	ADAM17
+NAFCILLIN SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1164	GLS
+Diclofenac potassium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1165	PTGS1	PTGS2
+SODIUM NITRITE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1166	ALDH1A1
+CEFUROXIME SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1167	CTDSP1	EIF4H	PABPC1	POLH	POLI	PSIP1	UHRF1
+IBANDRONATE SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1168	FDPS
+sodium iopodate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1169	PPARG
+Diatrizoate sodium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1170	ESR1	SLC12A5
+CEPHAPIRIN SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1171	APEX1	BAZ2B	EHMT2	GLS	KDM4A	L3MBTL1	MPHOSPH8	POLB	POLH	POLI	POLK	TDP1	WRN
+Cloxacillin sodium salt	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1172	ABCB1
+CEPHALOTHIN SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1173	BAZ2B	EHMT2	NLRP1	POLB	PTPN7	TDP1
+CHLOROTHIAZIDE SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1174	SLC12A3
+Asmacortone	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1176	AR	NR3C1
+naproxen sodium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1177	PTGS1	PTGS2	TARDBP
+Aminosalicylate Potassium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1178	PTGS1	PTGS2
+Sodium butamide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1179	ABCC8	KCNJ11
+BROMFENAC SODIUM	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1180	PTGS1	PTGS2
+Hydrocortisone sodium succinate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1181	AR	CFTR	DRD3	NFE2L2	NR3C1	TDP1
+Oxaprozin Potassium	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1182	PTGS1	PTGS2
+Nafcillin sodium monohydrate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1183	DRD3	NFE2L2
+Vismodegib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1184	ALB	SHH	SMO
+Canagliflozin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1185	SLC5A1	SLC5A2
+Ibrutinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1186	BTK	SMAD3	TDP1	YES1
+PONATINIB	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1187	ABL1	FLT3	KIT	PDGFRA	PDGFRB	YES1
+Suvorexant	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1188	HCRTR1	HCRTR2
+Cabozantinib S-malate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1189	KDR	MET
+Cabozantinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1190	YES1
+Ruxolitinib phosphate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1191	JAK1	JAK2
+Vemurafenib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1192	BRAF	YES1
+Dabrafenib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1193	TGFBR1
+doxycycline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1194	EHMT2	F2RL1	FEN1	MMP13	MMP2	MMP3	MMP8	SOD1
+novobiocin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1195	ALB	HSP90AA1
+tetracycline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1196	ADRBK1	BCL2L1	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	ESR1	ESR2	F2RL1	GSTO1	HSP90AA1	HSP90AB1	HTT	MCL1	PLA2G7	PPP1CA	PTPN7	SOD1
+oxytetracycline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1197	ABL1	ACP1	APEX1	ARNT	BAZ2B	BCL2L1	CACNA1H	CBX1	CTDSP1	DNMT1	EHMT2	EIF4G1	EIF4H	FEN1	GLS	GSTO1	HIF1A	HTT	KAT2A	KDM4A	MAPT	MCL1	MPI	PABPC1	PAFAH1B2	PAFAH1B3	PAFAH2	PIP4K2A	PLA2G7	PLK1	POLB	POLH	POLK	PPP1CA	RECQL	RIN1	SOD1	SUMO1	TACC3	THRB	TNNC1	TNNI3	TNNT2	VCP	WRN
+minocycline	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1198	ALB	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	DRD3	F2RL1
+dicumarol	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1199	ALDH1A1	CYP1A2	CYP2C9	ESR1	GPR35	MAPK1	NFE2L2	NQO1	PPARG	TP53	VKORC1
+piroxicam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1200	AHR	BAZ2B	CYP1A2	CYP2C19	CYP2C9	CYP2D6	CYP3A4	KDM4A	PTGS1	PTGS2
+Meclocycline sulfosalicylate	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1201	TDP1
+meloxicam	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1202	AHR	AR	ESR1	PTGS1	PTGS2
+warfarin	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1203	ALB	PPARG	TP53
+PHENPROCOUMON	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1204	VKORC1
+OXYTETRACYCLINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1205	ALDH1A1	ESR1	GLS	HPGD	HSD17B10	POLK	TDP1	VDR
+Tipranavir	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1206	NR3C1	PGA5
+Teriflunomide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1207	DHODH
+METHACYCLINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1208	ABL1	ACP1	APEX1	ARNT	BAZ2B	BCL2L1	CASP6	DNMT1	EIF4H	ERAP1	FEN1	GSTO1	KDM4A	L3MBTL1	MBD2	MCL1	NR2E3	PABPC1	PIP4K2A	PLA2G7	PLCG1	POLB	POLH	POLI	POLK	PPP1CA	PREPL	PRMT1	PSIP1	RACGAP1	RBBP9	RECQL	RIN1	SAE1	SIAE	SUMO1	TACC3	TDP1	THRB	TRA	UBA2	UBE2I	UHRF1	VCP
+MINOCYCLINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1209	ABCB1	AHR	AR	TDP1
+DEMECLOCYCLINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1210	BAZ2B	CACNA1B	CASP6	DRD1	EHMT2	ESR1	ESR2	GSTO1	HTT	KDM4A	MBD2	NLRP1	PLA2G7	POLB	POLK	PRMT1	PSIP1	SAE1	TDP1	TRA	UBA2	UBE2I	UHRF1	VCP
+TETRACYCLINE HYDROCHLORIDE	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1211	ABCB1
+(S)-crizotinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1212	MET
+Vortioxetine hydrobromide	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1213	HTR1A	HTR3A	SLC6A4
+Sirolimus	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1214	AR	CYP19A1	CYP2C19	CYP2C9	CYP3A4	ESR1	FKBP1A	FKBP5	MTOR	NR3C1	TDP1
+Lenvatinib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1215	YES1
+Palbociclib	http://dsigdb.tanlab.org/DSigDBv1.0/displayDrug.py?db=d1&id=1216	CCND1	CDK4
