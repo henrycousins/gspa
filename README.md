@@ -4,10 +4,10 @@ Gene set proximity analysis (GSPA) is a method for identifying critical gene set
 
 ![Alt text](overview.png?raw=true "GSPA Overview")
 
-# Dependencies
+## Dependencies
 GSPA is built in Python 3 and requires Matplotlib, NumPy, pandas, and SciPy, in addition to the standard Python library. It was tested using Python 3.7, Matplotlib 3.3.4, NumPy 1.20.2, pandas 1.2.4, and SciPy 1.6.2.
 
-# Installation
+## Installation
 
 1. Clone the repository
 
@@ -22,7 +22,7 @@ $ cd gspa
 $ conda env create -f environment.yml
 $ conda activate GSPA
 ```
-# Simple usage
+## Simple usage
 
 GSPA can be run through the command line as follows:
 
@@ -32,10 +32,10 @@ python gspa.py --rnk_file RNK_FILE --gmt_file GMT_FILE --output_folder OUTPUT_FO
 where ```RNK_FILE``` is the path to the .rnk file containing the gene list, ```GMT_FILE``` is the path to the .gmt file containing the gene sets, and ```OUTPUT_FOLDER``` is name of the directory where results should be stored. For instance, the following code performs GSPA on the GSE4183 gene list using KEGG pathway gene sets, saving the results to ```/outputs```:
 
 ```
-python gspa.py --rnk_file rnk_files/GSE4183.rnk --gmt_file gene_sets/kegg.gmt --output_folder outputs
+python gspa.py --rnk_file rnk_files/GSE781.rnk --gmt_file gene_sets/kegg.gmt --output_folder outputs
 ```
 
-# Advanced usage
+## Advanced usage
 
 Many additional parameters can be defined by the user.
 
@@ -72,3 +72,6 @@ optional arguments:
                         could not be computed.
 ```
 
+## License
+
+This software is available for reuse under an MIT license.
