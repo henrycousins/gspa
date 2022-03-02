@@ -74,4 +74,4 @@ optional arguments:
 
 ## License
 
-This software is available for reuse under an MIT license.
+This software is available under an MIT license.
