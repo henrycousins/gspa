@@ -87,7 +87,6 @@ File | Type | Extension | Columns | Comments
 
 ```
 .
-├── backup
 └── gspa
     ├── LICENSE           # LICENSE
     ├── README.md         # README
