@@ -3,14 +3,15 @@
 Given a gene list (rnk file) and list of gene sets (gmt file), perform GSPA to identify significant gene sets.
 
 Example command-line usage:
-$ python gspa.py --rnk_file rnk_files/GSE4183.rnk --gmt_file gene_sets/kegg.gmt --output_folder output_folder
+$ python gspa.py --rnk_file rnk_files/GSE4183.rnk --gmt_file gene_sets/kegg.gmt --output_folder outputs
 
 usage: gspa.py [-h] --rnk_file RNK_FILE --gmt_file GMT_FILE
                [--output_folder OUTPUT_FOLDER]
                [--use_permutation USE_PERMUTATION] [--r R]
                [--min_set_size MIN_SET_SIZE] [--max_set_size MAX_SET_SIZE]
-               [--n_perm N_PERM] [--weighted_score_type WEIGHTED_SCORE_TYPE]
-               [--verbose VERBOSE] [--drop_na DROP_NA]
+               [--max_num_sets MAX_NUM_SETS] [--n_perm N_PERM]
+               [--weighted_score_type WEIGHTED_SCORE_TYPE] [--verbose VERBOSE]
+               [--drop_na DROP_NA] [--results_file RESULTS_FILE]
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -22,19 +23,25 @@ optional arguments:
                         For generating null distributions, whether to use
                         permutation of the seed set ("True", default), or
                         permutation of the expanded set ("False").
-  --r R                 Radius for set expansion (default = 0.3)
+  --r R                 Radius for set expansion (default = 0.1)
   --min_set_size MIN_SET_SIZE
                         Minimum gene set size to consider (default = 2)
   --max_set_size MAX_SET_SIZE
                         Maximum gene set size to consider (default = 300)
+  --max_num_sets MAX_NUM_SETS
+                        Maximum number of gene sets to evaluate (default =
+                        600)
   --n_perm N_PERM       Number of permutations for generating null
                         distributions (default = 100)
   --weighted_score_type WEIGHTED_SCORE_TYPE
                         Exponential degree of weighting of each element for
                         weighted K-S test (default = 1)
   --verbose VERBOSE     Whether to print progress (default = True)
-  --drop_na DROP_NA     If True (default), drop gene sets for which a p-value
-                        could not be computed.
+  --drop_na DROP_NA     If True, drop gene sets for which an exact NES could
+                        not be computed (default = False).
+  --results_file RESULTS_FILE
+                        Custom name for results file (default =
+                        [list_name]_results.csv).
 
 """
 
@@ -54,13 +61,15 @@ if __name__ == '__main__':
     parser.add_argument('--output_folder', type=str, required=False, default='output_folder', help = 'Directory to store output')
     parser.add_argument('--use_permutation', type=bool, required = False, default=True, 
                         help='For generating null distributions, whether to use permutation of the seed set ("True", default), or permutation of the expanded set ("False").')
-    parser.add_argument('--r', type=float, required=False, default=0.3, help='Radius for set expansion (default = 0.3)')
+    parser.add_argument('--r', type=float, required=False, default=0.1, help='Radius for set expansion (default = 0.1)')
     parser.add_argument('--min_set_size', type=int, required=False, default=2, help='Minimum gene set size to consider (default = 2)')
     parser.add_argument('--max_set_size', type=int, required=False, default=300, help='Maximum gene set size to consider (default = 300)')
+    parser.add_argument('--max_num_sets', type=int, required=False, default=600, help='Maximum number of gene sets to evaluate (default = 600)')
     parser.add_argument('--n_perm', type=int, required=False, default=100, help='Number of permutations for generating null distributions (default = 100)')
     parser.add_argument('--weighted_score_type', type=int, required=False, default=1, help='Exponential degree of weighting of each element for weighted K-S test (default = 1)')
     parser.add_argument('--verbose', type=bool, required=False, default=True, help='Whether to print progress (default = True)')
-    parser.add_argument('--drop_na', type=bool, required=False, default=True, help='If True (default), drop gene sets for which a p-value could not be computed.')
+    parser.add_argument('--drop_na', type=bool, required=False, default=False, help='If True, drop gene sets for which an exact NES could not be computed (default = False).')
+    parser.add_argument('--results_file', type=str, required=False, default='[list_name]_results', help='Custom name for results file (default = [list_name]_results.csv).')
 
     args = parser.parse_args()
 
@@ -70,11 +79,13 @@ if __name__ == '__main__':
     radius = args.r
     min_set_size = args.min_set_size
     max_set_size = args.max_set_size
+    max_num_sets = args.max_num_sets
     nperm = args.n_perm
     weighted_score_type = args.weighted_score_type
     use_permutation = args.use_permutation
     verbose = args.verbose
     drop_na = args.drop_na
+    results_file = args.results_file
 
     #%% Load embeddings
     node_ids = pickle.load(open('embeddings/humanppi_node_ids.p', 'rb'))
@@ -117,7 +128,7 @@ if __name__ == '__main__':
     for i,gene_set_name in enumerate(gene_set_dict.keys()):
         try:
             if gene_set_name not in [x[0] for x in results]:
-                if i < 10000: # maximum number of sets to test
+                if i < max_num_sets: # maximum number of sets to test
                     gene_set_input = gene_set_dict[gene_set_name]
                     gene_list_input = gene_list_input
                     gs = [x for x in gene_set_input if x in node_ids]
@@ -149,30 +160,31 @@ if __name__ == '__main__':
 
 
     #%% Convert results to dataframe
-    name = gene_list_name + '_results'
+    
+    if results_file == '[list_name]_results':
+        name = gene_list_name + '_results'
+    else:
+        name = results_file
+
     es_s = [x[2] for x in results]
     esnull_s = [x[3].tolist() for x in results]
     gs = gspa_significance(es_s, esnull_s)
     df_results = pd.DataFrame([x for x in gs],columns=['ES','NES','P-value','FDR'])
     df_results['gene_set_name'] = pd.DataFrame([x[0] for x in results], index=df_results.index)
-    # df_results['size0'] = pd.DataFrame([x[1] for x in results], index=df_results.index)
-    # df_results['size1'] = pd.DataFrame([x[10] for x in results], index=df_results.index)
 
     df_results.rename(columns={'gene_set_name': 'Gene Set'}, inplace=True)
 
     df_results.set_index('Gene Set',inplace=True,drop=True)
 
-    # es_s = [x[6] for x in results]
-    # esnull_s = [x[7].tolist() for x in results]
-    # gs = gspa_significance(es_s, esnull_s)
-    # df_results[['es_1','nes_1','pval_1','fdr_1']] = pd.DataFrame([x for x in gs], index=df_results.index)
-    # # df_results['size'] = pd.DataFrame([x[1] for x in results], index=df_results.index)
-
     if drop_na:
         df_results.replace(np.inf, np.nan, inplace=True)
         df_results.dropna(inplace=True)
+    
+    df_results['sortby'] = df_results.apply(lambda x: x['FDR'] if abs(x['NES']) < 1000000 else 100, axis=1)
+    df_results.sort_values(by='sortby', ascending=True, inplace=True)
+    df_results.drop(columns=['sortby'], inplace=True)
 
-    df_results.sort_values(by='FDR',ascending=True,inplace=True)
+    # df_results.sort_values(by='NES',ascending=False,inplace=True)
 
     print(f'Job complete. Results saved to {output_folder}.')
 
