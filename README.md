@@ -13,7 +13,7 @@ $ conda activate GSPA
 
 ## Installation
 
-Once dependencies are installed, clone the repository as follows:
+Clone the repository as follows:
 
 ```
 $ git clone https://github.com/henrycousins/gspa
