@@ -105,6 +105,9 @@ if __name__ == '__main__':
 
     print(f'{gene_list_name} loaded.')
 
+    if len(gene_list_input) != len(set(gene_list_input)):
+        print('WARNING: Duplicate gene IDs detected. Please remove duplicates.')
+
     #%%
     results = []
 
