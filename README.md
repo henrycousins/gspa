@@ -106,7 +106,7 @@ File | Type | Extension | Columns | Comments
 
 ## License
 
-This software is available under an MIT license.
+This software is available under a BSD 3-Clause License.
 
 ## Sustainability
 
