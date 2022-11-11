@@ -30,7 +30,7 @@ optional arguments:
                         Maximum gene set size to consider (default = 300)
   --max_num_sets MAX_NUM_SETS
                         Maximum number of gene sets to evaluate (default =
-                        600)
+                        10000)
   --n_perm N_PERM       Number of permutations for generating null
                         distributions (default = 100)
   --weighted_score_type WEIGHTED_SCORE_TYPE
@@ -64,7 +64,7 @@ if __name__ == '__main__':
     parser.add_argument('--r', type=float, required=False, default=0.1, help='Radius for set expansion (default = 0.1)')
     parser.add_argument('--min_set_size', type=int, required=False, default=2, help='Minimum gene set size to consider (default = 2)')
     parser.add_argument('--max_set_size', type=int, required=False, default=300, help='Maximum gene set size to consider (default = 300)')
-    parser.add_argument('--max_num_sets', type=int, required=False, default=600, help='Maximum number of gene sets to evaluate (default = 600)')
+    parser.add_argument('--max_num_sets', type=int, required=False, default=10000, help='Maximum number of gene sets to evaluate (default = 10000)')
     parser.add_argument('--n_perm', type=int, required=False, default=100, help='Number of permutations for generating null distributions (default = 100)')
     parser.add_argument('--weighted_score_type', type=int, required=False, default=1, help='Exponential degree of weighting of each element for weighted K-S test (default = 1)')
     parser.add_argument('--verbose', type=bool, required=False, default=True, help='Whether to print progress (default = True)')

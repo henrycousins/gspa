@@ -63,7 +63,7 @@ optional arguments:
                         Maximum gene set size to consider (default = 300)
   --max_num_sets MAX_NUM_SETS
                         Maximum number of gene sets to evaluate (default =
-                        600)
+                        10000)
   --n_perm N_PERM       Number of permutations for generating null
                         distributions (default = 100)
   --weighted_score_type WEIGHTED_SCORE_TYPE
