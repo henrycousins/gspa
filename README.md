@@ -1,6 +1,6 @@
 # Gene Set Proximity Analysis (GSPA)
 
-Gene set proximity analysis (GSPA) is a method for identifying critical gene sets in functional genetic datasets using low-dimensional gene embeddings. For additional documentation, please refer to our preprint, available at https://arxiv.org/abs/2202.00143. 
+Gene set proximity analysis (GSPA) is a method for identifying critical gene sets in functional genetic datasets using low-dimensional gene embeddings. For additional documentation, please refer to our manuscript, available [here](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac735/6832036). 
 
 ![Alt text](overview.png?raw=true "GSPA Overview")
 
@@ -91,7 +91,7 @@ File | Type | Extension | Columns | Comments
     ├── LICENSE           # LICENSE
     ├── README.md         # README
     ├── embeddings        # contains gene embeddings and IDs as pickled arrays
-    ├── environment.yml   # optional dependency environment
+    ├── environments      # optional dependency environments
     ├── functions.py      # helper functions
     ├── gene_sets         # contains example gene sets
     ├── gspa.py           # main
